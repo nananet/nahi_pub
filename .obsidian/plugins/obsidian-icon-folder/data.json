@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiBook",
-      "👩‍🎓",
-      "LiVault",
+      "📝",
       "LiDatabase",
-      "LiPen"
+      "LiPen",
+      "LiBookHeart",
+      "LiNotebook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -33,5 +33,13 @@
     "lucideIconPackType": "native",
     "debugMode": false,
     "useInternalPlugins": false
-  }
+  },
+  "00_templates": "LiLayoutTemplate",
+  "01_diary": "LiBookUp",
+  "02_notes": "LiNotebook",
+  "03_assets": "LiBookHeart",
+  "04_canvas": "LiPen",
+  "05_dataview": "LiDatabase",
+  "README.md": "📝",
+  "07_main": "LiBook"
 }
