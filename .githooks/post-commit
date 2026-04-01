@@ -1,0 +1,20 @@
+#!/bin/sh
+# コミット後にその日の日記へ1行追記する（01_diary/_tools/append_commit_to_diary.py）。
+# 有効化: git config core.hooksPath .githooks
+# 追記だけでコミットまで自動にする: export DIARY_AUTO_COMMIT=1（このファイルの先頭で export してもよい）
+
+ROOT="$(git rev-parse --show-toplevel)"
+MSG="$(git log -1 --pretty=%s)"
+case "$MSG" in
+  diary:*) exit 0 ;;
+esac
+
+if command -v python >/dev/null 2>&1; then
+  PY=python
+elif command -v python3 >/dev/null 2>&1; then
+  PY=python3
+else
+  exit 0
+fi
+
+"$PY" "$ROOT/01_diary/_tools/append_commit_to_diary.py" || true

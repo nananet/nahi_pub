@@ -11,3 +11,6 @@ null*
 # Add below lines to exclude OS settings and caches
 .trash/
 .DS_Store
+
+# Story 音声（容量が大きいためリポジトリに含めない）
+10_main/story/_audio/**/*.wav
