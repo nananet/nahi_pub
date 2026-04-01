@@ -1,0 +1,1500 @@
+パック順 - Arcaea Wiki* 
+
+[[ホーム](https://wikiwiki.jp/arcaea/)| [新規](https://wikiwiki.jp/arcaea/::cmd/newpage?refer=%E3%83%91%E3%83%83%E3%82%AF%E9%A0%86)| [編集](https://wikiwiki.jp/arcaea/::cmd/edit?page=%E3%83%91%E3%83%83%E3%82%AF%E9%A0%86)| [添付](https://wikiwiki.jp/arcaea/::cmd/attach?page=%E3%83%91%E3%83%83%E3%82%AF%E9%A0%86)]
+
+Menu
+
+- [新規](https://wikiwiki.jp/arcaea/::cmd/newpage?refer=%E3%83%91%E3%83%83%E3%82%AF%E9%A0%86)
+- [編集](https://wikiwiki.jp/arcaea/::cmd/edit?page=%E3%83%91%E3%83%83%E3%82%AF%E9%A0%86)
+- [添付](https://wikiwiki.jp/arcaea/::cmd/attach?page=%E3%83%91%E3%83%83%E3%82%AF%E9%A0%86)
+
+- [一覧](https://wikiwiki.jp/arcaea/::cmd/list)
+- [最終更新](https://wikiwiki.jp/arcaea/RecentChanges)
+- [差分](https://wikiwiki.jp/arcaea/::cmd/diff?page=%E3%83%91%E3%83%83%E3%82%AF%E9%A0%86)
+- [バックアップ](https://wikiwiki.jp/arcaea/::cmd/backup?page=%E3%83%91%E3%83%83%E3%82%AF%E9%A0%86)
+
+- [凍結](https://wikiwiki.jp/arcaea/::cmd/freeze?page=%E3%83%91%E3%83%83%E3%82%AF%E9%A0%86)
+- [複製](https://wikiwiki.jp/arcaea/::cmd/template?refer=%E3%83%91%E3%83%83%E3%82%AF%E9%A0%86)
+- [名前変更](https://wikiwiki.jp/arcaea/::cmd/rename?refer=%E3%83%91%E3%83%83%E3%82%AF%E9%A0%86)
+
+- [ヘルプ](https://wikiwiki.jp/arcaea/::cmd/help)
+
+---
+
+ 
+
+ 
+
+ 
+
+これらのキーワードがハイライトされています：
+
+---
+
+収録曲数 524曲
+
+(ver.6.13.0収録分)
+
+Arcaea
+
+| Arcaea |
+| --- |
+| 64曲 | 127曲 | 12曲(最大20曲) | 20曲 | 20曲 | 20曲 |
+| 無料 | 有料 | 有料 |
+
+Main Story
+
+| Main Story Act II: Catastrophe | Main Story Act I: Creation |
+| --- | --- |
+| 5曲 | 7曲 | 5曲 | 13曲(5 + 5 + 3) | 9曲 | 7曲 | 5曲 | 6曲 | 6曲 | 9曲 |
+| 有料 | 有料 |
+
+Side Story
+
+| Side Story |
+| --- |
+| 10曲(5 + 5) | 12曲(6 + 3 + 3) | 5曲 | 8曲(5 + 3) | 6曲 | 5曲 | 8曲(5 + 3) | 6曲 | 6曲 |
+| 有料 |
+
+Collaboration
+
+| Collaboration |
+| --- |
+| 5曲 | 6曲 | 10曲(5 + 5) | 5曲 | 5曲 | 10曲(5 + 5) | 4曲 | 10曲(5 + 5) | 12曲(4 + 4 + 4) | 13曲(4 + 5 + 4) | 16曲(3 + 3 + 5 + 5) | 9曲(6 + 3) | 5曲 | 8曲(5 + 3) | 5曲 |
+| 有料 |
+
+基本的に、無料楽曲は「Arcaea」パックまたは「 [World Extend](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%83%E3%82%AF%E9%A0%86#extend3)」パックに、有料楽曲は楽曲パック、拡張コンテンツの「Pack Append」もしくは単曲購入の「Memory Archive」に収録されています。
+
+- ただし、「 [虚空の夢](https://wikiwiki.jp/arcaea/%E8%99%9A%E7%A9%BA%E3%81%AE%E5%A4%A2)」「 [GLORY：ROAD](https://wikiwiki.jp/arcaea/GLORY%EF%BC%9AROAD)」などのように、期間をあけて突発的に既存の有料パックに追加されることもあります。
+
+Song欄右端に緑色の印がある楽曲は [ワールドモード](https://wikiwiki.jp/arcaea/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%A2%E3%83%BC%E3%83%89)解禁対象楽曲です。
+
+- 楽曲そのものにワールドモードでの解禁が必要なもののみ緑色の印があります([Lost Chapter](https://wikiwiki.jp/arcaea/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%A2%E3%83%BC%E3%83%89/Lost%20Chapter)・ [Breached Chapter](https://wikiwiki.jp/arcaea/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%A2%E3%83%BC%E3%83%89/Breached%20Chapter)での解禁が必要なBeyond譜面は除く)。
+
+[[Edit "Arcaea"]](https://wikiwiki.jp/arcaea/::cmd/areaedit?areaedit_no=0&inline_plugin=0&page=%E3%83%91%E3%83%83%E3%82%AF%E9%A0%86&digest=7827ee107a98e7145c9b0350e350bf25)
+
+6 Packs / 257 Songs
+
+## "Arcaea" Pack [64曲]
+
+実装 : ver.1.0.5 (17/03/09) 無料コンテンツ : Free Song欄右側に緑色の印がない楽曲(ver.6.9.0現在で29曲)は、 [ユーザー登録](https://wikiwiki.jp/arcaea/%E3%83%AB%E3%83%BC%E3%83%AB#register)無し/ログアウトした状態でもプレイが可能です。
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [Sayonara Hatsukoi](https://wikiwiki.jp/arcaea/Sayonara%20Hatsukoi) | REDSHiFT | 1.0.5(17/03/09) | 1 | 4 | 7 | 8 |
+| [Fairytale](https://wikiwiki.jp/arcaea/Fairytale) | chitose | 1.0.5(17/03/09) | 1 | 3 | 7 | 9 |
+| [Vexaria](https://wikiwiki.jp/arcaea/Vexaria) | ak+q | 1.0.5(17/03/09) | 2 | 5 | 7 | 9 |
+| [Rise](https://wikiwiki.jp/arcaea/Rise) | Combatplayer | 1.0.5(17/03/09) | 2 | 4 | 7+ |
+| [Lucifer](https://wikiwiki.jp/arcaea/Lucifer) | chitose | 1.0.5(17/03/09) | 3 | 5 | 8 |
+| [Snow White](https://wikiwiki.jp/arcaea/Snow%20White) | Puru | 1.0.5(17/03/09) | 2 | 5 | 8 | 9+ |
+| [Shades of Light in aTranscendent Realm](https://wikiwiki.jp/arcaea/Shades%20of%20Light%20in%20a%20Transcendent%20Realm) | ak+q | 1.0.5(17/03/09) | 3 | 6 | 8 | 9 |
+| [Babaroque](https://wikiwiki.jp/arcaea/Babaroque) | cYsmix | 1.0.5(17/03/09) | 3 | 6 | 8 |
+| [Lost Civilization](https://wikiwiki.jp/arcaea/Lost%20Civilization) | Laur vs CK | 1.0.5(17/03/09) | 4 | 7 | 9 | 9+ |
+| [GOODTEK (Arcaea Edit)](https://wikiwiki.jp/arcaea/GOODTEK%20%28Arcaea%20Edit%29) | EBIMAYO | 1.0.5(17/03/09) | 4 | 6 | 9 | 9+ |
+| [qualia -ideaesthesia-](https://wikiwiki.jp/arcaea/qualia%20-ideaesthesia-) | nitro | 1.0.5(17/03/09) | 4 | 7 | 9 | 9+ |
+| [Dement ~after legend~](https://wikiwiki.jp/arcaea/Dement%20~after%20legend~) | Cosmograph | 1.0.9(17/03/20) | 3 | 6 | 7+ | 9+ |
+| [Dandelion](https://wikiwiki.jp/arcaea/Dandelion) | Farhan | 1.0.9(17/03/20) | 2 | 6 | 8 |
+| [Infinity Heaven](https://wikiwiki.jp/arcaea/Infinity%20Heaven) | HyuN | 1.0.10(17/04/12) | 1 | 5 | 7+ | 9 |
+| [Anökumene](https://wikiwiki.jp/arcaea/Anokumene) | Jun Kuroda | 1.0.10(17/04/12) | 2 | 6 | 9 | 9+ |
+| [Brand new world](https://wikiwiki.jp/arcaea/Brand%20new%20world) | U-ske | 1.0.11(17/05/11) | 2 | 4 | 7+ |
+| [Chronostasis](https://wikiwiki.jp/arcaea/Chronostasis) | 黒皇帝 | 1.1.0(17/06/02) | 3 | 7 | 8+ |
+| [神奈川電脳暗渠](https://wikiwiki.jp/arcaea/%E7%A5%9E%E5%A5%88%E5%B7%9D%E9%9B%BB%E8%84%B3%E6%9A%97%E6%B8%A0) | 南ゆに | 1.1.0(17/06/02) | 1 | 5 | 9 | 9+ |
+| [クロートーと星の観測者](https://wikiwiki.jp/arcaea/%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%88%E3%83%BC%E3%81%A8%E6%98%9F%E3%81%AE%E8%A6%B3%E6%B8%AC%E8%80%85) | しーけー | 1.1.2(17/06/23) | 2 | 5 | 7+ | 8+ |
+| [Ignotus](https://wikiwiki.jp/arcaea/Ignotus) | ak+q | 1.1.3(17/07/18) | 3 | 6 | 9 | 9+ |
+| [ハルトピア ~Utopia of Spring~](https://wikiwiki.jp/arcaea/%E3%83%8F%E3%83%AB%E3%83%88%E3%83%94%E3%82%A2%20~Utopia%20of%20Spring~) | A-zu-ra | 1.1.4(17/08/10) | 1 | 4 | 8 |
+| [Rabbit In The Black Room](https://wikiwiki.jp/arcaea/Rabbit%20In%20The%20Black%20Room) | Rabbit House | 1.1.6(17/09/25) | 2 | 5 | 8 |
+| [One Last Drive](https://wikiwiki.jp/arcaea/One%20Last%20Drive) | REDSHiFT | 1.5.0(17/11/03) | 2 | 5 | 8 |
+| [Dreamin' Attraction!!](https://wikiwiki.jp/arcaea/Dreamin%27%20Attraction%21%21) | 翡乃イスカ | 1.5.0(17/11/03) | 4 | 7 | 9 |
+| [Red and Blue](https://wikiwiki.jp/arcaea/Red%20and%20Blue) | Silentroom | 1.5.0(17/11/03) | 4 | 7+ | 9 | 10 |
+| [Reinvent](https://wikiwiki.jp/arcaea/Reinvent) | Sound Souler | 1.5.3(17/12/21) | 2 | 6 | 8 |
+| [Syro](https://wikiwiki.jp/arcaea/Syro) | Mitomoro | 1.5.3(17/12/21) | 3 | 6 | 9 |
+| [Blaster](https://wikiwiki.jp/arcaea/Blaster) | Massive New Krew | 1.5.7(18/03/09) | 4 | 7 | 9 |
+| [Cybernecia Catharsis](https://wikiwiki.jp/arcaea/Cybernecia%20Catharsis) | Tanchiky | 1.6.4(18/06/01) | 4 | 7 | 9 | 9+ |
+| [inkar-usi](https://wikiwiki.jp/arcaea/inkar-usi) | DIA | 1.6.6(18/06/22) | 2 | 4 | 7+ | 9 |
+| [Suomi](https://wikiwiki.jp/arcaea/Suomi) | Aire | 1.7.0(18/07/16) | 2 | 5 | 7+ | 8+ |
+| [Bookmaker (2D Version)](https://wikiwiki.jp/arcaea/Bookmaker%20%282D%20Version%29) | Kobaryo | 1.7.0(18/07/16) | 4 | 6 | 8 | 10 |
+| [堕楽の園](https://wikiwiki.jp/arcaea/%E5%A0%95%E6%A5%BD%E3%81%AE%E5%9C%92) | gmtn. (witch's slave) | 1.7.0(18/07/16) | 2 | 7 | 9 |
+| [Nhelv](https://wikiwiki.jp/arcaea/Nhelv) | Silentroom | 1.7.2(18/08/13) | 3 | 6 | 9+ | 10+ |
+| [白道、多希望羊と信じありく。](https://wikiwiki.jp/arcaea/%E7%99%BD%E9%81%93%E3%80%81%E5%A4%9A%E5%B8%8C%E6%9C%9B%E7%BE%8A%E3%81%A8%E4%BF%A1%E3%81%98%E3%81%82%E3%82%8A%E3%81%8F%E3%80%82) | Apo11o program ft. 大瀬良あい | 1.7.4(18/08/31) | 3 | 6 | 9 |
+| [Purgatorium](https://wikiwiki.jp/arcaea/Purgatorium) | お月さま交響曲 | 1.7.5(18/09/17) | 2 | 6 | 8 | 9 |
+| [Rugie](https://wikiwiki.jp/arcaea/Rugie) | Feryquitous feat. Sennzai | 1.8.1(18/11/08) | 3 | 6 | 9 |
+| [Grimheart](https://wikiwiki.jp/arcaea/Grimheart) | Puru | 2.0.0(19/03/21) | 2 | 5 | 8+ |
+| [ReviXy](https://wikiwiki.jp/arcaea/ReviXy) | ikaruga_nex | 2.0.0(19/03/21) | 3 | 7 | 9 |
+| [VECTOЯ](https://wikiwiki.jp/arcaea/VECTO%D0%AF) | WHITEFISTS | 2.0.3(19/05/02) | 3 | 7 | 9 |
+| [SUPERNOVA](https://wikiwiki.jp/arcaea/SUPERNOVA) | BACO | 2.0.3(19/05/02) | 3 | 6 | 9+ |
+| [Diode](https://wikiwiki.jp/arcaea/Diode) | Kolaa | 2.4.0(19/10/08) | 2 | 5 | 8 |
+| [FREEF4LL](https://wikiwiki.jp/arcaea/FREEF4LL) | YUKIYANAGI | 2.4.0(19/10/08) | 4 | 7 | 8 | 9+ |
+| [Monochrome Princess](https://wikiwiki.jp/arcaea/Monochrome%20Princess) | polysha | 2.4.3(19/10/26) | 4 | 7+ | 9+ |
+| [Senkyou](https://wikiwiki.jp/arcaea/Senkyou) | MYTK | 2.4.5(19/11/18) | 3 | 5 | 8+ |
+| [world.execute(me);](https://wikiwiki.jp/arcaea/world.execute%28me%29%3B) | Mili | 2.5.2(20/02/21) | 3 | 5 | 8 |
+| [Oblivia](https://wikiwiki.jp/arcaea/Oblivia) | Saiph | 2.6.0(20/03/25) | 3 | 5 | 8 | 9+ |
+| [Ävril -Flicka i krans-](https://wikiwiki.jp/arcaea/%C3%84vril%20-Flicka%20i%20krans-) | Rigël Theatre | 3.12.0(22/02/17) | 3 | 6 | 8 |
+| [Sakura Fubuki](https://wikiwiki.jp/arcaea/Sakura%20Fubuki) | Street | 3.12.0(22/02/17) | 3 | 6 | 9 |
+| [NULCTRL](https://wikiwiki.jp/arcaea/NULCTRL) | Silentroom | 3.12.0(22/02/17) | 3 | 7 | 9 |
+| [DDD](https://wikiwiki.jp/arcaea/DDD) | はがね | 3.12.4(22/03/23) | 2 | 6 | 8 |
+| [ネコノテ・カリタガール](https://wikiwiki.jp/arcaea/%E3%83%8D%E3%82%B3%E3%83%8E%E3%83%86%E3%83%BB%E3%82%AB%E3%83%AA%E3%82%BF%E3%82%AC%E3%83%BC%E3%83%AB) | Ino(chronoize) | 3.12.8(22/04/28) | 3 | 6 | 9 |
+| [san skia](https://wikiwiki.jp/arcaea/san%20skia) | ユアミトス | 3.12.10(22/05/25) | 3 | 6 | 8 |
+| [Altair (feat. *spiLa*)](https://wikiwiki.jp/arcaea/Altair%20%28feat.%20%2AspiLa%2A%29) | kamome sano & you | 4.0.0(22/07/07) | 2 | 6 | 8 |
+| [無機質世界に彩を](https://wikiwiki.jp/arcaea/%E7%84%A1%E6%A9%9F%E8%B3%AA%E4%B8%96%E7%95%8C%E3%81%AB%E5%BD%A9%E3%82%92) | MisomyL | 4.0.0(22/07/07) | 4 | 6 | 9 |
+| [Trap Crow](https://wikiwiki.jp/arcaea/Trap%20Crow) | Puru | 4.0.0(22/07/07) | 4 | 7+ | 9+ |
+| [だいあるのーと](https://wikiwiki.jp/arcaea/%E3%81%A0%E3%81%84%E3%81%82%E3%82%8B%E3%81%AE%E3%83%BC%E3%81%A8) | 七草くりむ | 4.1.6(22/12/22) | 3 | 6 | 8+ |
+| [Remind the Souls (Short Version)](https://wikiwiki.jp/arcaea/Remind%20the%20Souls%20%28Short%20Version%29) | Nhato | 5.0.0(23/09/27) | 3 | 7 | 9 |
+| [The Formula](https://wikiwiki.jp/arcaea/The%20Formula) | Junk | 5.3.0(24/01/25) | 3 | 6 | 9 |
+| [Jingle](https://wikiwiki.jp/arcaea/Jingle) | DJ Noriken | 5.4.0(24/03/08) | 2 | 5 | 7+ | 9 |
+| [エピクロスの虹はもう見えない](https://wikiwiki.jp/arcaea/%E3%82%A8%E3%83%94%E3%82%AF%E3%83%AD%E3%82%B9%E3%81%AE%E8%99%B9%E3%81%AF%E3%82%82%E3%81%86%E8%A6%8B%E3%81%88%E3%81%AA%E3%81%84) | SYNC.ART'S feat.Misato | 5.7.0(24/05/30) | 2 | 5 | 7 | 8+ |
+| [SATISFACTION](https://wikiwiki.jp/arcaea/SATISFACTION) | P*Light & DJ Noriken feat. KMNZ | 6.6.0(25/06/26) | 3 | 6 | 8 | 9 |
+| [Dematerialized](https://wikiwiki.jp/arcaea/Dematerialized) | In Love With A Ghost | 6.7.0(25/07/24) | 1 | 4 | 7 | 8 |
+| [キャラメルポップコーンたべたいよ～](https://wikiwiki.jp/arcaea/%E3%82%AD%E3%83%A3%E3%83%A9%E3%83%A1%E3%83%AB%E3%83%9D%E3%83%83%E3%83%97%E3%82%B3%E3%83%BC%E3%83%B3%E3%81%9F%E3%81%B9%E3%81%9F%E3%81%84%E3%82%88%EF%BD%9E) | ヤミナベレコーズ feat. 繭糸 | 6.12.10(26/02/19) | 2 | 5 | 8 | 9 |
+
+## Memory Archive [127曲]
+
+実装 : ver.1.1.0 (17/06/02) 有料コンテンツ / 単曲購入 : 100 メモリー / 曲 エーテルの雫 : 1 個 / 曲 パートナー : [イリス](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A#ilith)/ [調](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page3%29#shirabe)/ [サマー 光](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page3%29#hikaris)/ [サマー 対立](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page3%29#tairitsus)/ [彩夢](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page3%29#ayu)/ [ウィンター エト & ルナ](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page3%29#etolunaw)/ [シア](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page3%29#sia)/ [DORO*C](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%28Page2%29#doroc)/ [ブリランテ](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%28Page2%29#brillante)/ [サマー イリス](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A#iliths)/ [ミール](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A#mir)/ [奈実](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A#nami)/ [盛夏 叶永](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A#kanaes)/ [追憶 ヴィータ](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A#vita)/ [リンカ](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%28Page2%29#linka)/ [天々音](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A#amane)/ [ウインター 紅](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A#kouw)/ [Apophenia レーテー](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page2%29#letheap)/ [宵闇 奈実](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A#namiy)/ [Ai-chan](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A#aichan)/ [彷徨 ヴィータ](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8#vitah)※パートナー解禁方法は各リンク先を参照。
+
+Song欄右側に青色の印がある楽曲(ver.6.12.0現在で67曲)は、1アカウントにつき1曲だけ「 [Memory Archiveチケット](https://wikiwiki.jp/arcaea/%E3%83%AB%E3%83%BC%E3%83%AB#beginnersmission)」でメモリーを消費せずに入手することができます。
+
+カテゴリについて
+
+カテゴリについて
+
+「ポップ・おすすめ」
+
+- サブカルチャー楽曲や東方Projectアレンジ楽曲など、音楽ゲームの経験が浅い方でも触れやすい楽曲のカテゴリです。
+
+「パートナー」
+
+- オリジナル楽曲のうち、パートナー入手(恒常・期間限定問わず)や、覚醒に必要な「核」の入手マップの解放条件となっている楽曲、楽曲の入手マップの解放条件となっている楽曲([MAHOROBA](https://wikiwiki.jp/arcaea/MAHOROBA)、 [Floating World](https://wikiwiki.jp/arcaea/Floating%20World)、 [Chromafill](https://wikiwiki.jp/arcaea/Chromafill)、 [Désive](https://wikiwiki.jp/arcaea/D%C3%A9sive))のカテゴリです。
+
+「オリジナル」
+
+- オリジナル楽曲のうち、「パートナー」の条件を満たさない楽曲のカテゴリです。 [Archive Story](https://wikiwiki.jp/arcaea/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC/Archive%20Story)を解禁するために必要な楽曲も含まれます。
+
+「バラエティ」
+
+- 各コンポーザーやレーベルのアルバムが初出の楽曲やBMS楽曲などが分類されるカテゴリです。
+
+「音楽ゲーム」
+
+- 他の音楽ゲームから移植された楽曲が分類されるカテゴリです。
+
+| Song | Composer | Version | Difficulty | Genre(カテゴリ) |
+| --- | --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [DataErr0r](https://wikiwiki.jp/arcaea/DataErr0r) | Cosmograph | 1.1.0(17/06/02) | 3 | 7 | 9 | バラエティ |
+| [CROSS†SOUL](https://wikiwiki.jp/arcaea/CROSS%E2%80%A0SOUL) | HyuN feat. Syepias | 1.1.0(17/06/02) | 4 | 7 | 9 | バラエティ |
+| [Your voice so... feat. Such](https://wikiwiki.jp/arcaea/Your%20voice%20so...%20feat.%20Such) | PSYQUI | 1.1.0(17/06/02) | 3 | 6 | 9 | バラエティ |
+| [不浄な白い鳥](https://wikiwiki.jp/arcaea/%E4%B8%8D%E6%B5%84%E3%81%AA%E7%99%BD%E3%81%84%E9%B3%A5) | MIssionary | 1.1.3(17/07/18) | 2 | 5 | 9 | オリジナル |
+| [Auxesia](https://wikiwiki.jp/arcaea/Auxesia) | ginkiha | 1.1.4(17/08/10) | 3 | 6 | 9 | パートナー |
+| [Modelista](https://wikiwiki.jp/arcaea/Modelista) | HiTECH NINJA | 1.1.6(17/09/25) | 3 | 7 | 9+ | オリジナル |
+| [Surrender](https://wikiwiki.jp/arcaea/Surrender) | void | 1.5.2(17/11/24) | 3 | 6 | 8+ | 音楽ゲーム |
+| [夜桜吹雪](https://wikiwiki.jp/arcaea/%E5%A4%9C%E6%A1%9C%E5%90%B9%E9%9B%AA) | A.SAKA | 1.5.2(17/11/24) | 4 | 7 | 9 | 音楽ゲーム |
+| [Metallic Punisher](https://wikiwiki.jp/arcaea/Metallic%20Punisher) | INNOCENT NOIZE | 1.5.6(18/02/16) | 3 | 7 | 10 | パートナー |
+| [carmine:scythe](https://wikiwiki.jp/arcaea/carmine_scythe) | かゆき | 1.6.2(18/04/29) | 4 | 7+ | 9 | パートナー |
+| [γuarδina](https://wikiwiki.jp/arcaea/%CE%B3uar%CE%B4ina) | Aoi | 1.6.2(18/04/29) | 4 | 8 | 10 | オリジナル |
+| [Be There](https://wikiwiki.jp/arcaea/Be%20There) | PSYQUI | 1.6.4(18/06/01) | 4 | 7 | 9 | 10 | オリジナル |
+| [Call My Name feat. Yukacco](https://wikiwiki.jp/arcaea/Call%20My%20Name%20feat.%20Yukacco) | Mameyudoufu | 1.6.6(18/06/22) | 3 | 6 | 8+ | バラエティ |
+| [dropdead](https://wikiwiki.jp/arcaea/dropdead) | Frums | 1.7.2(18/08/13) | 1 | 9 | 8+ | 10 | オリジナル |
+| [Fallensquare](https://wikiwiki.jp/arcaea/Fallensquare) | Silentroom | 1.7.2(18/08/13) | 3 | 7 | 9+ | オリジナル |
+| [Alexandrite](https://wikiwiki.jp/arcaea/Alexandrite) | WAiKURO | 1.7.5(18/09/17) | 4 | 7 | 10 | オリジナル |
+| [Astral tale](https://wikiwiki.jp/arcaea/Astral%20tale) | Noah | 1.8.1(18/11/08) | 4 | 7 | 9 | オリジナル |
+| [Phantasia](https://wikiwiki.jp/arcaea/Phantasia) | Yunosuke | 1.8.2(18/11/29) | 4 | 5 | 9 | パートナー |
+| [Empire of Winter](https://wikiwiki.jp/arcaea/Empire%20of%20Winter) | Street | 1.8.3(18/12/22) | 3 | 6 | 9 | パートナー |
+| [Libertas](https://wikiwiki.jp/arcaea/Libertas) | Zekk | 1.9.2(19/02/11) | 3 | 5 | 9 | 10 | オリジナル |
+| [Dot to Dot feat. shully](https://wikiwiki.jp/arcaea/Dot%20to%20Dot%20feat.%20shully) | Mameyudoufu | 2.0.3(19/05/02) | 3 | 6 | 8 | バラエティ |
+| [Dreadnought](https://wikiwiki.jp/arcaea/Dreadnought) | Mastermind (xi + nora2r) | 2.2.0(19/07/18) | 4 | 7 | 9+ | バラエティ |
+| [Mirzam](https://wikiwiki.jp/arcaea/Mirzam) | Aoi vs. siqlo | 2.3.2(19/09/15) | 4 | 7 | 9+ | オリジナル |
+| [Heavenly caress](https://wikiwiki.jp/arcaea/Heavenly%20caress) | Noah | 2.4.3(19/10/26) | 3 | 7 | 9+ | 10+ | オリジナル |
+| [Filament](https://wikiwiki.jp/arcaea/Filament) | Puru | 2.4.5(19/11/18) | 4 | 7+ | 9+ | オリジナル |
+| [Avant Raze](https://wikiwiki.jp/arcaea/Avant%20Raze) | Sampling Masters MEGA | 2.4.7(19/12/09) | 3 | 6 | 9 | パートナー |
+| [BATTLE NO.1](https://wikiwiki.jp/arcaea/BATTLE%20NO.1) | TANO*C Sound Team | 2.4.9(20/01/15) | 3 | 6 | 9+ | バラエティ |
+| [La'qryma of the Wasteland](https://wikiwiki.jp/arcaea/La%27qryma%20of%20the%20Wasteland) | DJ Noriken | 2.5.0(20/01/21) | 3 | 6 | 9 | 10 | オリジナル |
+| [Einherjar Joker](https://wikiwiki.jp/arcaea/Einherjar%20Joker) | DJ Genki vs Gram | 2.5.0(20/01/21) | 4 | 7 | 9+ | 10+ | オリジナル |
+| [IZANA](https://wikiwiki.jp/arcaea/IZANA) | t+pazolite vs P*Light | 2.5.0(20/01/21) | 5 | 8 | 10 | オリジナル |
+| [最強STRONGER](https://wikiwiki.jp/arcaea/%E6%9C%80%E5%BC%B7STRONGER) | REDALiCE vs USAO | 2.5.0(20/01/21) | 5 | 9 | 11 | パートナー |
+| [amygdata](https://wikiwiki.jp/arcaea/amygdata) | nitro | 2.6.0(20/03/25) | 4 | 7 | 9+ | オリジナル |
+| [Altale](https://wikiwiki.jp/arcaea/Altale) | Sakuzyo | 3.0.0(20/05/27) | 2 | 5 | 9+ | 10 | バラエティ |
+| [Feels So Right feat. Renko](https://wikiwiki.jp/arcaea/Feels%20So%20Right%20feat.%20Renko) | Mysteka | 3.0.3(20/07/08) | 3 | 6 | 9 | バラエティ |
+| [Scarlet Cage](https://wikiwiki.jp/arcaea/Scarlet%20Cage) | Daisuke Kurosawa | 3.0.3(20/07/08) | 4 | 7 | 9+ | パートナー |
+| [Teriqma](https://wikiwiki.jp/arcaea/Teriqma) | owl＊tree | 3.0.5(20/07/16) | 3 | 6 | 9 | 9+ | 音楽ゲーム |
+| [MAHOROBA](https://wikiwiki.jp/arcaea/MAHOROBA) | Zekk | 3.0.6(20/08/07) | 3 | 6 | 9 | パートナー |
+| [BADTEK](https://wikiwiki.jp/arcaea/BADTEK) | EBIMAYO | 3.1.0(20/08/21) | 4 | 7 | 9+ | オリジナル |
+| [Malicious Mischance](https://wikiwiki.jp/arcaea/Malicious%20Mischance) | s-don | 3.1.2(20/09/04) | 4 | 7+ | 10 | パートナー |
+| [BUCHiGiRE Berserker](https://wikiwiki.jp/arcaea/BUCHiGiRE%20Berserker) | REDALiCE vs MASAKI | 3.2.0(20/09/16) | 5 | 8 | 10+ | 音楽ゲーム |
+| [Galaxy Friends](https://wikiwiki.jp/arcaea/Galaxy%20Friends) | Kobaryo | 3.2.1(20/10/07) | 3 | 6 | 9+ | バラエティ |
+| [Xeraphinite](https://wikiwiki.jp/arcaea/Xeraphinite) | BlackY | 3.2.2(20/10/30) | 3 | 7 | 9+ | オリジナル |
+| [Xanatos](https://wikiwiki.jp/arcaea/Xanatos) | Tatsh | 3.2.3(20/11/19) | 4 | 7 | 10 | オリジナル |
+| [AttraqtiA](https://wikiwiki.jp/arcaea/AttraqtiA) | かめりあ | 3.5.0(21/01/21) | 4 | 8 | 10 | オリジナル |
+| [GIMME DA BLOOD](https://wikiwiki.jp/arcaea/GIMME%20DA%20BLOOD) | C-Show | 3.5.2(21/03/09) | 3 | 7 | 10 | パートナー |
+| [ベースラインやってる？w](https://wikiwiki.jp/arcaea/%E3%83%99%E3%83%BC%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%B3%E3%82%84%E3%81%A3%E3%81%A6%E3%82%8B%EF%BC%9Fw) | かめりあ feat. ななひら | 3.5.4(21/04/09) | 3 | 6 | 9 | バラエティ |
+| [THE ULTIMACY](https://wikiwiki.jp/arcaea/THE%20ULTIMACY) | aran vs Massive New Krew | 3.6.4(21/06/30) | 3 | 7 | 9+ | オリジナル |
+| [烈華RESONANCE](https://wikiwiki.jp/arcaea/%E7%83%88%E8%8F%AFRESONANCE) | REDALiCE vs Kobaryo | 3.6.4(21/06/30) | 5 | 8+ | 10+ | パートナー |
+| [Sheriruth (Laur Remix)](https://wikiwiki.jp/arcaea/Sheriruth%20%28Laur%20Remix%29) | Laur | 3.8.0(21/08/10) | 4 | 7+ | 10 | オリジナル |
+| [緋纏いの宵](https://wikiwiki.jp/arcaea/%E7%B7%8B%E7%BA%8F%E3%81%84%E3%81%AE%E5%AE%B5) | Freezer feat.妃苺 | 3.8.2(21/08/24) | 4 | 7 | 9 | パートナー |
+| [goldenslaughterer](https://wikiwiki.jp/arcaea/goldenslaughterer) | zts | 3.8.6(21/09/29) | 4 | 6 | 9+ | ポップ・おすすめ |
+| [lastendconductor](https://wikiwiki.jp/arcaea/lastendconductor) | zts | 3.8.6(21/09/29) | 3 | 7 | 9 | 10 | ポップ・おすすめ |
+| [Redolent Shape](https://wikiwiki.jp/arcaea/Redolent%20Shape) | Sanaas | 3.8.8(21/10/21) | 4 | 7 | 10 | オリジナル |
+| [彩る夏の恋花火](https://wikiwiki.jp/arcaea/%E5%BD%A9%E3%82%8B%E5%A4%8F%E3%81%AE%E6%81%8B%E8%8A%B1%E7%81%AB) | karatoPαnchii feat. はるの | 3.9.0(21/11/11) | 3 | 6 | 9+ | オリジナル |
+| [init()](https://wikiwiki.jp/arcaea/init%28%29) | kamome sano | 3.11.2(22/01/20) | 4 | 7 | 9+ | パートナー |
+| [INTERNET OVERDOSE](https://wikiwiki.jp/arcaea/INTERNET%20OVERDOSE) | Aiobahn feat. KOTOKO | 3.12.0(22/02/17) | 3 | 6 | 8 | ポップ・おすすめ |
+| [Macrocosmic Modulation](https://wikiwiki.jp/arcaea/Macrocosmic%20Modulation) | JAKAZiD | 3.12.0(22/02/17) | 4 | 7+ | 9+ | オリジナル |
+| [Kissing Lucifer](https://wikiwiki.jp/arcaea/Kissing%20Lucifer) | ETIA. | 3.12.0(22/02/17) | 4 | 7+ | 10 | オリジナル |
+| [NEO WINGS](https://wikiwiki.jp/arcaea/NEO%20WINGS) | SOUND HOLICfeat. Nana Takahashi | 3.12.0(22/02/17) | 4 | 7 | 10 | パートナー |
+| [Aurgelmir](https://wikiwiki.jp/arcaea/Aurgelmir) | 溝口ゆうま feat. 大瀬良あい | 3.12.4(22/03/23) | 4 | 8 | 10 | 音楽ゲーム |
+| [Head BONK ache](https://wikiwiki.jp/arcaea/Head%20BONK%20ache) | saaa ft. MC iwata Bros. | 3.12.4(22/03/23) | 4 | 7 | 9 | バラエティ |
+| [ピコPico*とらんすれーしょんっ！](https://wikiwiki.jp/arcaea/%E3%83%94%E3%82%B3Pico%2A%E3%81%A8%E3%82%89%E3%82%93%E3%81%99%E3%82%8C%E3%83%BC%E3%81%97%E3%82%87%E3%82%93%E3%81%A3%EF%BC%81) | t+pazolite,ななひら,Cranky,Pico* | 3.12.8(22/04/28) | 2 | 6 | 9 | バラエティ |
+| [μ](https://wikiwiki.jp/arcaea/%CE%BC) | Frums | 3.12.10(22/05/25) | 3 | 7 | 9+ | オリジナル |
+| [PUPA](https://wikiwiki.jp/arcaea/PUPA) | モリモリあつし | 4.0.0(22/07/07) | 4 | 7+ | 10 | バラエティ |
+| [Free Myself](https://wikiwiki.jp/arcaea/Free%20Myself) | lapix feat. mami | 4.1.4(22/11/10) | 4 | 7 | 10 | パートナー |
+| [cocoro*cosmetic](https://wikiwiki.jp/arcaea/cocoro%2Acosmetic) | KOTONOHOUSE | 4.1.4(22/11/10) | 3 | 7 | 9 | オリジナル |
+| [Capella](https://wikiwiki.jp/arcaea/Capella) | ARForest | 4.1.6(22/12/22) | 4 | 7+ | 10 | パートナー |
+| [NULL APOPHENIA](https://wikiwiki.jp/arcaea/NULL%20APOPHENIA) | N² | 4.2.0(23/01/26) | 4 | 8+ | 10+ | パートナー |
+| [Crimson Throne](https://wikiwiki.jp/arcaea/Crimson%20Throne) | Dimier√Lisb | 4.3.0(23/03/02) | 4 | 8 | 10 | パートナー |
+| [Manic Jeer](https://wikiwiki.jp/arcaea/Manic%20Jeer) | ルゼ | 4.3.0(23/03/02) | 4 | 7+ | 10 | オリジナル |
+| [緋色月下、狂咲ノ絶(nayuta 2017 ver.)](https://wikiwiki.jp/arcaea/%E7%B7%8B%E8%89%B2%E6%9C%88%E4%B8%8B%E3%80%81%E7%8B%82%E5%92%B2%E3%83%8E%E7%B5%B6%20%28nayuta%202017%20ver.%29) | nayuta x 黒鳥(EastNewSound) | 4.3.0(23/03/02) | 3 | 6 | 10 | ポップ・おすすめ |
+| [PRIMITIVE LIGHTS](https://wikiwiki.jp/arcaea/PRIMITIVE%20LIGHTS) | TAG | 4.3.2(23/03/09) | 5 | 8+ | 10+ | オリジナル |
+| [The Survivor (Game Edit)](https://wikiwiki.jp/arcaea/The%20Survivor%20%28Game%20Edit%29) | Taishi | 4.4.4(23/04/27) | 3 | 6 | 9+ | バラエティ |
+| [New York Back Raise](https://wikiwiki.jp/arcaea/New%20York%20Back%20Raise) | saaa + kei_iwata+ stuv + わかどり | 4.4.4(23/04/27) | 4 | 7 | 9+ | バラエティ |
+| [Galactic Love](https://wikiwiki.jp/arcaea/Galactic%20Love) | La prière | 4.4.6(23/05/25) | 3 | 6 | 9 | ポップ・おすすめ |
+| [Lost in the Abyss](https://wikiwiki.jp/arcaea/Lost%20in%20the%20Abyss) | FELT | 4.4.6(23/05/25) | 3 | 6 | 9+ | ポップ・おすすめ |
+| [To the Milky Way](https://wikiwiki.jp/arcaea/To%20the%20Milky%20Way) | 黒魔 | 4.4.6(23/05/25) | 5 | 8+ | 10 | パートナー |
+| [INTERNET YAMERO](https://wikiwiki.jp/arcaea/INTERNET%20YAMERO) | Aiobahn feat. KOTOKO | 4.5.0(23/06/28) | 4 | 7+ | 10 | ポップ・おすすめ |
+| [SACRIFICE feat. ayame](https://wikiwiki.jp/arcaea/SACRIFICE%20feat.%20ayame) | Masayoshi Minoshima(ALR) | 4.7.0(23/08/18) | 3 | 7 | 9+ | ポップ・おすすめ |
+| [彼方の夢へと](https://wikiwiki.jp/arcaea/%E5%BD%BC%E6%96%B9%E3%81%AE%E5%A4%A2%E3%81%B8%E3%81%A8) | ii/night feat. 綺良雪 | 4.7.2(23/09/14) | 4 | 8 | 9+ | オリジナル |
+| [B.B.K.K.B.K.K.](https://wikiwiki.jp/arcaea/B.B.K.K.B.K.K.) | nora2r | 5.0.0(23/09/27) | 4 | 7 | 9+ | バラエティ |
+| [Wish Upon a Snow](https://wikiwiki.jp/arcaea/Wish%20Upon%20a%20Snow) | 打打だいず | 5.2.0(23/11/30) | 4 | 7 | 10 | オリジナル |
+| [患部で止まってすぐ溶ける～ 狂気の優曇華院](https://wikiwiki.jp/arcaea/%E6%82%A3%E9%83%A8%E3%81%A7%E6%AD%A2%E3%81%BE%E3%81%A3%E3%81%A6%E3%81%99%E3%81%90%E6%BA%B6%E3%81%91%E3%82%8B%E3%80%80%EF%BD%9E%20%E7%8B%82%E6%B0%97%E3%81%AE%E5%84%AA%E6%9B%87%E8%8F%AF%E9%99%A2) | ARM + 夕野ヨシミ (IOSYS)feat. miko | 5.2.2(23/12/21) | 4 | 7 | 10 | ポップ・おすすめ |
+| [LIVHT MY W​Δ​Y](https://wikiwiki.jp/arcaea/LIVHT%20MY%20W%E2%80%8B%CE%94%E2%80%8BY) | かめりあ feat. STΔRLIVHT | 5.2.2(23/12/21) | 4 | 7 | 9+ | 音楽ゲーム |
+| [Luna Rossa](https://wikiwiki.jp/arcaea/Luna%20Rossa) | r0y | 5.3.0(24/01/25) | 3 | 6 | 9+ | 音楽ゲーム |
+| [Innocence](https://wikiwiki.jp/arcaea/Innocence) | Powerless feat. Sennzai | 5.4.0(24/03/08) | 3 | 6 | 8 | 9+ | オリジナル |
+| [IONOSTREAM](https://wikiwiki.jp/arcaea/IONOSTREAM) | Tatsh | 5.4.0(24/03/08) | 3 | 6 | 8+ | 9+ | 音楽ゲーム |
+| [Masquerade Legion](https://wikiwiki.jp/arcaea/Masquerade%20Legion) | Srav3R & DJ Noriken | 5.4.0(24/03/08) | 3 | 6 | 10 | オリジナル |
+| [狂恋ROMANCE](https://wikiwiki.jp/arcaea/%E7%8B%82%E6%81%8BROMANCE) | REDALiCE vs DJ Myosukefeat. DELUTAYA | 5.4.0(24/03/08) | 4 | 7+ | 10+ | パートナー |
+| [Qovat](https://wikiwiki.jp/arcaea/Qovat) | owl＊tree | 5.4.0(24/03/08) | 4 | 8 | 10 | オリジナル |
+| [MIRINAE](https://wikiwiki.jp/arcaea/MIRINAE) | TAK × Zekk | 5.5.0(24/03/25) | 4 | 8 | 10 | オリジナル |
+| [ultradiaxon-N3](https://wikiwiki.jp/arcaea/ultradiaxon-N3) | nitro (lowiro) | 5.5.8(24/04/02) | 4 | 8 | 10 | パートナー |
+| [Distorted Fate](https://wikiwiki.jp/arcaea/Distorted%20Fate) | Sakuzyo | 5.6.0(24/04/26) | 4 | 7+ | 9 | 10+ | 音楽ゲーム |
+| [Floating World](https://wikiwiki.jp/arcaea/Floating%20World) | baker feat. botan | 5.6.0(24/04/26) | 3 | 7 | 9 | パートナー |
+| [Chromafill](https://wikiwiki.jp/arcaea/Chromafill) | ていぬ | 5.6.0(24/04/26) | 4 | 7 | 10 | パートナー |
+| [Désive](https://wikiwiki.jp/arcaea/D%C3%A9sive) | MisomyL | 5.6.0(24/04/26) | 5 | 8 | 9+ | 10+ | パートナー |
+| [黄昏の協奏曲](https://wikiwiki.jp/arcaea/%E9%BB%84%E6%98%8F%E3%81%AE%E5%8D%94%E5%A5%8F%E6%9B%B2) | Scarlette | 5.7.0(24/05/30) | 4 | 7+ | 9 | 10 | 音楽ゲーム |
+| [Beautiful Dreamer](https://wikiwiki.jp/arcaea/Beautiful%20Dreamer) | M-Project | 5.7.0(24/05/30) | 4 | 7+ | 9+ | オリジナル |
+| [Back to Basics](https://wikiwiki.jp/arcaea/Back%20to%20Basics) | m1dy | 5.7.0(24/05/30) | 5 | 8+ | 10 | オリジナル |
+| [STARGATE EXTREME](https://wikiwiki.jp/arcaea/STARGATE%20EXTREME) | KARUT | 5.8.0(24/06/27) | 4 | 6 | 9 | 9+ | 音楽ゲーム |
+| [HYPER VISION](https://wikiwiki.jp/arcaea/HYPER%20VISION) | VOLTA | 5.8.0(24/06/27) | 4 | 7 | 9+ | オリジナル |
+| [shrink](https://wikiwiki.jp/arcaea/shrink) | Shohei Tsuchiya(ZUNTATA) | 5.9.0(24/07/30) | 3 | 7 | 9+ | 音楽ゲーム |
+| [Rain of Conflict in aRadiant Abyss](https://wikiwiki.jp/arcaea/Rain%20of%20Conflict%20in%20a%20Radiant%20Abyss) | ak+q | 5.10.2(24/09/12) | 5 | 7+ | 9 | 10 | オリジナル |
+| [幻想のサテライト](https://wikiwiki.jp/arcaea/%E5%B9%BB%E6%83%B3%E3%81%AE%E3%82%B5%E3%83%86%E3%83%A9%E3%82%A4%E3%83%88) | 豚乙女 | 5.10.4(24/09/26) | 2 | 6 | 8+ | 10 | ポップ・おすすめ |
+| [Crimson Quartz](https://wikiwiki.jp/arcaea/Crimson%20Quartz) | DiGiTAL WiNG with 空音 | 5.10.6(24/10/24) | 3 | 6 | 8+ | 9+ | ポップ・おすすめ |
+| [Third Sun](https://wikiwiki.jp/arcaea/Third%20Sun) | Ash Astral | 5.10.6(24/10/24) | 3 | 7 | 9 | 10 | 音楽ゲーム |
+| [Spirit of the Dauntless](https://wikiwiki.jp/arcaea/Spirit%20of%20the%20Dauntless) | KO3 & Relect | 5.10.6(24/10/24) | 4 | 7+ | 10 | オリジナル |
+| [Dies irae](https://wikiwiki.jp/arcaea/Dies%20irae) | お月さま交響曲 | 5.10.6(24/10/24) | 4 | 7 | 9 | 10 | オリジナル |
+| [MEGALOVANIA(Camellia Remix)](https://wikiwiki.jp/arcaea/MEGALOVANIA%20%28Camellia%20Remix%29) | Camellia | 6.3.0(25/03/09) | 5 | 8 | 9+ | 10+ | ポップ・おすすめ |
+| [プラシイボ♥バトラー](https://wikiwiki.jp/arcaea/%E3%83%97%E3%83%A9%E3%82%B7%E3%82%A4%E3%83%9C%E2%99%A5%E3%83%90%E3%83%88%E3%83%A9%E3%83%BC) | OSTER Project | 6.3.0(25/03/09) | 5 | 8 | 10 | オリジナル |
+| [進捗どうですか?](https://wikiwiki.jp/arcaea/%E9%80%B2%E6%8D%97%E3%81%A9%E3%81%86%E3%81%A7%E3%81%99%E3%81%8B%3F) | sumijun feat. ななひら | 6.3.2(25/03/27) | 3 | 7 | 8+ | 9+ | ポップ・おすすめ |
+| [Dull Blade](https://wikiwiki.jp/arcaea/Dull%20Blade) | stuv | 6.4.0(25/04/24) | 4 | 8 | 10 | バラエティ |
+| [Don't Die](https://wikiwiki.jp/arcaea/Don%27t%20Die) | Paul Bazooka | 6.5.0(25/05/22) | 3 | 7 | 9 | 10 | 音楽ゲーム |
+| [Tic! Tac! Toe!](https://wikiwiki.jp/arcaea/Tic%21%20Tac%21%20Toe%21) | TAK x Corbin | 6.5.0(25/05/22) | 3 | 7 | 8+ | 9+ | 音楽ゲーム |
+| [Miles](https://wikiwiki.jp/arcaea/Miles) | Electronic Boutique | 6.6.0(25/06/26) | 3 | 6 | 8 | 9+ | 音楽ゲーム |
+| [Acheron](https://wikiwiki.jp/arcaea/Acheron) | KARUT | 6.8.2(25/09/04) | 3 | 7 | 9+ | オリジナル |
+| [Eternity Break](https://wikiwiki.jp/arcaea/Eternity%20Break) | Puru | 6.8.4(25/09/24) | 3 | 7 | 9 | 10 | オリジナル |
+| [Angel's Boundary](https://wikiwiki.jp/arcaea/Angel%27s%20Boundary) | MEMODEMO | 6.10.0(25/10/30) | 5 | 8 | 10 | オリジナル |
+| [Xterfusion](https://wikiwiki.jp/arcaea/Xterfusion) | REDALiCE × t+pazolite | 6.10.0(25/10/30) | 4 | 8 | 9+ | 10+ | オリジナル |
+| [Grandspell](https://wikiwiki.jp/arcaea/Grandspell) | Hylen | 6.11.0(25/11/27) | 4 | 8 | 10 | オリジナル |
+| [Paranoid Arc](https://wikiwiki.jp/arcaea/Paranoid%20Arc) | t+pazolite | 6.11.2(25/12/24) | 4 | 7+ | 9 | 10 | パートナー |
+| [羽化する亜球体](https://wikiwiki.jp/arcaea/%E7%BE%BD%E5%8C%96%E3%81%99%E3%82%8B%E4%BA%9C%E7%90%83%E4%BD%93) | 窓辺リカ | 6.11.6(25/12/31) | 5 | 8 | 9 | 10 | パートナー |
+| [［筏］は云う。幾ら漂流すれど不撓の心さえ有れば軈て行到ると。](https://wikiwiki.jp/arcaea/%EF%BC%BB%E7%AD%8F%EF%BC%BD%E3%81%AF%E4%BA%91%E3%81%86%E3%80%82%E5%B9%BE%E3%82%89%E6%BC%82%E6%B5%81%E3%81%99%E3%82%8C%E3%81%A9%E4%B8%8D%E6%92%93%E3%81%AE%E5%BF%83%E3%81%95%E3%81%88%E6%9C%89%E3%82%8C%E3%81%B0%E8%BB%88%E3%81%A6%E8%A1%8C%E5%88%B0%E3%82%8B%E3%81%A8%E3%80%82) | 庭師 | 6.11.6(26/01/07) | 4 | 7 | 9 | 10 | パートナー |
+| [+1(UNKNOWN)-NUMBER](https://wikiwiki.jp/arcaea/%2B1%28UNKNOWN%29-NUMBER) | MEMODEMO × AQUASINE^ (hackerling) | 6.12.10(26/02/19) | 4 | 7 | 9+ | バラエティ |
+| [GOODRAGE](https://wikiwiki.jp/arcaea/GOODRAGE) | EBIMAYO | 6.13.0(26/03/09) | 4 | 7+ | 9 | 10 | バラエティ |
+| [Cryogenic](https://wikiwiki.jp/arcaea/Cryogenic) | Camellia ft. Petra Gurin | 6.13.0(26/03/09) | 5 | 7 | 9 | 10 | 音楽ゲーム |
+| [Desertrealm](https://wikiwiki.jp/arcaea/Desertrealm) | Masahiro "Godspeed" Aoki | 6.13.0(26/03/09) | 4 | 8 | 10 | オリジナル |
+
+ 
+
+ 
+
+ 
+
+## "World Extend 4: Emanations" Pack [12/20曲]
+
+本楽曲パックを一括解禁すると、『World Extend 4: Emanations』のすべての楽曲が入手できます。解禁対象は、今後の配信曲すべてです。 解禁後でも楽曲以外のマップ報酬を目的に、期間限定マップで遊ぶことが出来ます。
+
+実装 : ver.6.10.0 (25/10/30) 期間限定無料コンテンツ : World Modeにて無料解禁or 700 メモリー エーテルの雫 : 7 個
+
+### 入手方法
+
+[Memory Archive](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%83%E3%82%AF%E9%A0%86#memoryarchive)や [Arcaea](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%83%E3%82%AF%E9%A0%86#arcaea)パックのように不定期で楽曲が追加されていきますが、入手方法が2パターンあります。
+
+期間限定マップを踏破する
+
+楽曲のリリースとともに、 [ワールドモード](https://wikiwiki.jp/arcaea/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%A2%E3%83%BC%E3%83%89/Extra%20Chapter)に期間限定マップが追加され、踏破することで楽曲が無料解放されます。
+
+- 一部マップはゴールではなくマップ途中に楽曲が配置されており、完走しなくても楽曲解禁が可能です。ゴールには代わりに次元の硝片が配置されています。
+
+パックを購入する
+
+- メモリーを消費することでこのパックを購入し、マップ解放期間が過ぎた楽曲を含む全てのリリース済み楽曲を入手できます。
+- パック購入後に追加された楽曲もリリースと同時に解放され、すぐにプレイできます。
+- パックを購入した場合も期間限定マップを進めることは可能です。道中のアイテム(欠片・エーテルの雫・次元の硝片)を入手したり、 [Fatalis 光](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8#hikarifatalis)のステータス強化に充てることができます。
+- パックを購入しても解放期間中に踏破しきれなかった期間限定マップは解放されません。
+- 解禁した楽曲数によってパックの価格が変動します。13曲までは700メモリーですが、14曲目以降は1曲解禁するごとに100メモリーずつ値下げされます(マップを完走する必要はありません)。最終的な収録曲数は20曲なので、買い切った時に解放される曲の単価が最大でも「100メモリー/曲」でとどまるようになっています。
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [始マリノ詩](https://wikiwiki.jp/arcaea/%E5%A7%8B%E3%83%9E%E3%83%AA%E3%83%8E%E8%A9%A9) | 有村京悟 feat. July | 6.10.0(25/10/30) | 2 | 5 | 7 | 8+ |
+| [mod](https://wikiwiki.jp/arcaea/mod) | kalsoer | 6.10.0(25/10/30) | 3 | 6 | 9 |
+| [Particle](https://wikiwiki.jp/arcaea/Particle) | Lime / Kankitsu | 6.10.0(25/10/30) | 3 | 6 | 9 | 9+ |
+| [Paradox Palette](https://wikiwiki.jp/arcaea/Paradox%20Palette) | Aethoro | 6.10.0(25/10/30) | 4 | 7 | 8+ | 9+ |
+| [Xxium and Purple haze](https://wikiwiki.jp/arcaea/Xxium%20and%20Purple%20haze) | D.watt | 6.10.0(25/10/30) | 2 | 7+ | 9+ | 10 |
+| [taboo tears you up 2017](https://wikiwiki.jp/arcaea/taboo%20tears%20you%20up%202017) | REDALiCE | 6.11.0(25/11/27) | 3 | 6 | 8+ | 9+ |
+| [undefined](https://wikiwiki.jp/arcaea/undefined) | planless & 乃花こより | 6.11.2(25/12/24) | 3 | 6 | 9 |
+| [~_+](https://wikiwiki.jp/arcaea/~_%2B) | AQUASINE ~ MEMODEMO+ METAROOM | 6.11.2(25/12/24) | 4 | 8 | 9+ |
+| [おまじない](https://wikiwiki.jp/arcaea/%E3%81%8A%E3%81%BE%E3%81%98%E3%81%AA%E3%81%84) | Tsubusare BOZZ × Madoka* | 6.12.0(26/01/29) | 2 | 7 | 9 |
+| [森奥虚跡](https://wikiwiki.jp/arcaea/%E6%A3%AE%E5%A5%A5%E8%99%9A%E8%B7%A1) | ShiBa | 6.12.10(26/02/19) | 3 | 6 | 9+ |
+| [3rd Avenue](https://wikiwiki.jp/arcaea/3rd%20Avenue) | Sound Souler | 6.13.0(26/03/09) | 3 | 8 | 9 |
+| [Vallista](https://wikiwiki.jp/arcaea/Vallista) | Sakuzyo | 6.13.0(26/03/09) | 4 | 7+ | 9+ |
+
+## "Extend Archive 3: Illusions" Pack [20曲]
+
+ここに系譜を継ぐ、更なる20曲。 3代目のWorld Extendパックです。過去に獲得期間中だった時期のあいだに無料解禁を達成した楽曲数に応じて、本パックの値段は変動します。
+
+実装 : ver.5.5.0 (24/03/25) 有料コンテンツ : 700 ~ 100 メモリー エーテルの雫 : 7 個 ※ 無料解放した曲数によって価格が変動しても、獲得できるエーテルの雫の個数は7個で変わりません。
+
+### 価格について
+
+ver.6.10.0にてWorld Extendパックが刷新され、以前の収録楽曲はExtend Archive 3: Illusionsに移動、完全有料パックとして販売されることになりました。 なお、価格システムは以前のWorld Extendパックから変更されていません。具体的な価格システムは以下の通りです。
+
+World Extend収録時にワールドモードで無料解放した楽曲数によってパックの価格が変動します。解禁数が13曲までは700メモリーですが、14曲目以降は1曲無料解放するごとに100メモリーずつ値下げされます。最終的な収録曲数は20曲なので、買い切った時に解放される曲の単価が最大でも「100メモリー/曲」でとどまるようになっています。
+
+- アニバーサリーセール時は「セールの値引き価格」と「通常価格＋無料解禁曲数による値引き」のうち安い方の価格が適用されます。
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [HELLOHELL](https://wikiwiki.jp/arcaea/HELLOHELL) | 暁Records | 5.5.0(24/03/25) | 2 | 5 | 7 | 9 |
+| [〇、](https://wikiwiki.jp/arcaea/%E3%80%87%E3%80%81) | Kolaa & 熊子 | 5.5.0(24/03/25) | 2 | 6 | 9 |
+| [Awaken In Ruins](https://wikiwiki.jp/arcaea/Awaken%20In%20Ruins) | Supa7onyz | 5.5.0(24/03/25) | 3 | 7 | 9+ |
+| [MORNINGLOOM](https://wikiwiki.jp/arcaea/MORNINGLOOM) | saaa | 5.5.0(24/03/25) | 3 | 6 | 8+ | 9+ |
+| [Lethal Voltage](https://wikiwiki.jp/arcaea/Lethal%20Voltage) | siqlo | 5.5.0(24/03/25) | 4 | 7+ | 10 |
+| [Leave All Behind](https://wikiwiki.jp/arcaea/Leave%20All%20Behind) | rider | 5.6.0(24/04/26) | 2 | 5 | 9 |
+| [Old School Salvage](https://wikiwiki.jp/arcaea/Old%20School%20Salvage) | DJ SHARPNEL | 5.7.0(24/05/30) | 4 | 7+ | 9+ |
+| [ディストーション・ニンゲン](https://wikiwiki.jp/arcaea/%E3%83%87%E3%82%A3%E3%82%B9%E3%83%88%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%8B%E3%83%B3%E3%82%B2%E3%83%B3) | DJ Myosuke & KAJI | 5.9.0(24/07/30) | 3 | 6 | 9+ |
+| [epitaxy](https://wikiwiki.jp/arcaea/epitaxy) | Camellia | 5.10.0(24/08/29) | 3 | 6 | 8 | 9 |
+| [Hailstone](https://wikiwiki.jp/arcaea/Hailstone) | Kazki Misora | 5.10.4(24/09/26) | 3 | 7 | 9+ |
+| [フレテミタイ](https://wikiwiki.jp/arcaea/%E3%83%95%E3%83%AC%E3%83%86%E3%83%9F%E3%82%BF%E3%82%A4) | みきとP | 5.10.4(24/09/26) | 2 | 6 | 8 | 9 |
+| [プレヤ](https://wikiwiki.jp/arcaea/%E3%83%97%E3%83%AC%E3%83%A4) | qfeileadh&レゾナンスもえこ | 5.10.6(24/10/24) | 2 | 5 | 8 | 9 |
+| [astral.exe](https://wikiwiki.jp/arcaea/astral.exe) | Synzak & Laxeno57 | 6.0.0(24/11/21) | 3 | 6 | 9 |
+| [Black Mirror on the Wall](https://wikiwiki.jp/arcaea/Black%20Mirror%20on%20the%20Wall) | 暁Records | 6.3.2(25/03/27) | 3 | 6 | 8 | 9+ |
+| [TRPNO](https://wikiwiki.jp/arcaea/TRPNO) | Nauts | 6.3.2(25/03/27) | 4 | 7+ | 10 |
+| [τ (tau)](https://wikiwiki.jp/arcaea/%CF%84%20%28tau%29) | Wooden | 6.4.0(25/04/24) | 4 | 7+ | 9+ |
+| [Won't Back Down](https://wikiwiki.jp/arcaea/Won%27t%20Back%20Down) | Pure 100% / KASA | 6.5.0(25/05/22) | 3 | 6 | 9+ |
+| [Someday](https://wikiwiki.jp/arcaea/Someday) | NieN | 6.6.0(25/06/26) | 3 | 6 | 9 |
+| [disintegration](https://wikiwiki.jp/arcaea/disintegration) | ひゅ～ぶ | 6.8.0(25/08/21) | 4 | 6 | 8 | 9+ |
+| [ROST PAGE GENE](https://wikiwiki.jp/arcaea/ROST%20PAGE%20GENE) | MYUKKE. | 6.9.0(25/10/02) | 5 | 8 | 10 |
+
+## "Extend Archive 2: Chronicles" Pack [20曲]
+
+ここに系譜を継ぐ、更なる20曲。 2代目のWorld Extendパックです。かつて獲得期間中だった時期のあいだ、無料解禁を達成した楽曲数に応じて、本パックの値段は変動します。
+
+実装 : ver.4.2.0 (23/01/26) 有料コンテンツ : 700 ~ 100 メモリー エーテルの雫 : 7 個 ※ 無料解放した曲数によって価格が変動しても、獲得できるエーテルの雫の個数は7個で変わりません。
+
+### 価格について
+
+ver.5.5.0にてWorld Extendパックが刷新され、以前の収録楽曲はExtend Archive 2:Chroniclesに移動、完全有料パックとして販売されることになりました。 なお、価格システムは以前のWorld Extendパックから変更されていません。具体的な価格システムは以下の通りです。
+
+World Extend収録時にワールドモードで無料解放した楽曲数によってパックの価格が変動します。解禁数が13曲までは700メモリーですが、14曲目以降は1曲無料解放するごとに100メモリーずつ値下げされます。最終的な収録曲数は20曲なので、買い切った時に解放される曲の単価が最大でも「100メモリー/曲」でとどまるようになっています。
+
+- アニバーサリーセール時は「セールの値引き価格」と「通常価格＋無料解禁曲数による値引き」のうち安い方の価格が適用されます。
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [月に叢雲華に風](https://wikiwiki.jp/arcaea/%E6%9C%88%E3%81%AB%E5%8F%A2%E9%9B%B2%E8%8F%AF%E3%81%AB%E9%A2%A8) | 幽閉サテライト | 4.2.0(23/01/26) | 3 | 6 | 8+ |
+| [MANTIS(Arcaea Ultra-Bloodrush VIP)](https://wikiwiki.jp/arcaea/MANTIS%20%28Arcaea%20Ultra-Bloodrush%20VIP%29) | Akira Complex feat. kiraku | 4.2.0(23/01/26) | 3 | 7 | 9 |
+| [World Fragments III(radio edit)](https://wikiwiki.jp/arcaea/World%20Fragments%20III%28radio%20edit%29) | xi | 4.2.0(23/01/26) | 3 | 7 | 9+ |
+| [Astra walkthrough](https://wikiwiki.jp/arcaea/Astra%20walkthrough) | paraoka | 4.2.0(23/01/26) | 4 | 7+ | 9+ |
+| [Chronicle](https://wikiwiki.jp/arcaea/Chronicle) | Lime | 4.2.0(23/01/26) | 5 | 8+ | 10 |
+| [Let's Rock (Arcaea mix)](https://wikiwiki.jp/arcaea/Let%27s%20Rock%20%28Arcaea%20mix%29) | ikaruga_nex vs FALCHiON | 4.3.0(23/03/02) | 3 | 7 | 9+ |
+| [Lost Emotion feat. nomico](https://wikiwiki.jp/arcaea/Lost%20Emotion%20feat.%20nomico) | Masayoshi Minoshima(ALR) | 4.4.4(23/04/27) | 3 | 7 | 9 |
+| [GIMMICK](https://wikiwiki.jp/arcaea/GIMMICK) | Ms.Sill | 4.4.4(23/04/27) | 2 | 6 | 9 |
+| [無法地点](https://wikiwiki.jp/arcaea/%E7%84%A1%E6%B3%95%E5%9C%B0%E7%82%B9) | La prière | 4.4.6(23/05/25) | 3 | 6 | 9 |
+| [ヒュブリスの頂に聳えるのは](https://wikiwiki.jp/arcaea/%E3%83%92%E3%83%A5%E3%83%96%E3%83%AA%E3%82%B9%E3%81%AE%E9%A0%82%E3%81%AB%E8%81%B3%E3%81%88%E3%82%8B%E3%81%AE%E3%81%AF) | qfeileadh feat.のあ | 4.4.6(23/05/25) | 4 | 7+ | 9+ |
+| [Ultimate taste](https://wikiwiki.jp/arcaea/Ultimate%20taste) | ぱらどっと | 4.6.0(23/07/19) | 3 | 6 | 9+ |
+| [RGB](https://wikiwiki.jp/arcaea/RGB) | MEMODEMO X AQUASINE | 4.7.0(23/08/18) | 4 | 7+ | 9+ |
+| [感情の摩天楼 ～Arr.Demetori](https://wikiwiki.jp/arcaea/%E6%84%9F%E6%83%85%E3%81%AE%E6%91%A9%E5%A4%A9%E6%A5%BC%20%EF%BD%9EArr.Demetori) | Demetori | 4.7.2(23/09/14) | 3 | 6 | 9+ |
+| [Dynitikós](https://wikiwiki.jp/arcaea/Dynitik%C3%B3s) | Prower | 5.0.0(23/09/27) | 4 | 7 | 9 |
+| [雨神楽](https://wikiwiki.jp/arcaea/%E9%9B%A8%E7%A5%9E%E6%A5%BD) | 荒谷サトル | 5.0.0(23/09/27) | 4 | 7 | 9+ |
+| [FANTA5Y](https://wikiwiki.jp/arcaea/FANTA5Y) | Moon Jelly & YUKIYANAGI | 5.1.0(23/10/26) | 3 | 7 | 9 |
+| [アローンアンドローン](https://wikiwiki.jp/arcaea/%E3%82%A2%E3%83%AD%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3) | Ponchi♪ feat. はぁち | 5.2.0(23/11/30) | 3 | 6 | 9 |
+| [felys final remix](https://wikiwiki.jp/arcaea/felys%20final%20remix) | onoken | 5.2.2(23/12/21) | 3 | 6 | 9 |
+| [On And On!! feat. Jenga](https://wikiwiki.jp/arcaea/On%20And%20On%21%21%20feat.%20Jenga) | ETIA. | 5.2.2(23/12/21) | 3 | 7 | 9 |
+| [Aleph-0](https://wikiwiki.jp/arcaea/Aleph-0) | LeaF | 5.4.0(24/03/08) | 5 | 8+ | 10 |
+
+ 
+
+## "Extend Archive 1: Visions" Pack [20曲]
+
+ここに聳える、始まりの20曲。 初代World Extendパックです。かつて獲得期間中だった時期のあいだ、無料解禁を達成した楽曲数に応じて、本パックの値段は変動します。
+
+実装 : ver.3.0.0 (20/05/27) 有料コンテンツ : 700 ~ 100 メモリー エーテルの雫 : 7 個 ※ 無料解放した曲数によって価格が変動しても、獲得できるエーテルの雫の個数は7個で変わりません。
+
+### 価格について
+
+ver.4.2.0にてWorld Extendパックが刷新され、以前の収録楽曲はExtend Archive 1: Visionsに移動、完全有料パックとして販売されることになりました。 なお、価格システムは以前のWorld Extendパックから変更されていません。具体的な価格システムは以下の通りです。
+
+World Extend収録時にワールドモードで無料解放した楽曲数によってパックの価格が変動します。解禁数が13曲までは700メモリーですが、14曲目以降は1曲無料解放するごとに100メモリーずつ値下げされます。最終的な収録曲数は20曲なので、買い切った時に解放される曲の単価が最大でも「100メモリー/曲」でとどまるようになっています。
+
+- アニバーサリーセール時は「セールの値引き価格」と「通常価格＋無料解禁曲数による値引き」のうち安い方の価格が適用されます。
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [Vivid Theory](https://wikiwiki.jp/arcaea/Vivid%20Theory) | ak+q | 3.0.0(20/05/27) | 2 | 5 | 8+ |
+| [1F√](https://wikiwiki.jp/arcaea/1F%E2%88%9A) | WHITEFISTS | 3.0.0(20/05/27) | 2 | 6 | 8 |
+| [Gekka (Short Version)](https://wikiwiki.jp/arcaea/Gekka%20%28Short%20Version%29) | Nhato | 3.0.0(20/05/27) | 4 | 6 | 8 |
+| [Give Me a Nightmare](https://wikiwiki.jp/arcaea/Give%20Me%20a%20Nightmare) | アリスシャッハと魔法の楽団 | 3.0.0(20/05/27) | 3 | 5 | 8+ |
+| [Black Lotus](https://wikiwiki.jp/arcaea/Black%20Lotus) | wa. | 3.0.0(20/05/27) | 3 | 6 | 9+ |
+| [Faint Light (Arcaea Edit)](https://wikiwiki.jp/arcaea/Faint%20Light%20%28Arcaea%20Edit%29) | Taishi | 3.0.3(20/07/08) | 3 | 6 | 9 |
+| [CROSS†OVER](https://wikiwiki.jp/arcaea/CROSS%E2%80%A0OVER) | HyuN feat. LyuU | 3.2.1(20/10/07) | 4 | 6 | 9 |
+| [Lapis](https://wikiwiki.jp/arcaea/Lapis) | SHIKI | 3.2.2(20/10/30) | 2 | 6 | 9 |
+| [Purple Verse](https://wikiwiki.jp/arcaea/Purple%20Verse) | Hommarju | 3.3.0(20/12/03) | 4 | 7 | 9 | 10 |
+| [Glow](https://wikiwiki.jp/arcaea/Glow) | SPACELECTRO | 3.5.0(21/01/21) | 4 | 7 | 9 |
+| [enchanted love](https://wikiwiki.jp/arcaea/enchanted%20love) | linear ring | 3.5.1(21/02/11) | 2 | 4 | 8 |
+| [竹](https://wikiwiki.jp/arcaea/%E7%AB%B9) | 立秋 feat. ちょこ | 3.5.1(21/02/11) | 3 | 6 | 10 |
+| [Life is PIANO](https://wikiwiki.jp/arcaea/Life%20is%20PIANO) | Junk | 3.5.4(21/04/09) | 3 | 6 | 9 |
+| [Vandalism](https://wikiwiki.jp/arcaea/Vandalism) | Ashrount | 3.6.0(21/05/11) | 3 | 7 | 9+ |
+| [Turbocharger](https://wikiwiki.jp/arcaea/Turbocharger) | A/I | 3.6.2(21/06/10) | 2 | 6 | 9 |
+| [狂言綺語](https://wikiwiki.jp/arcaea/%E7%8B%82%E8%A8%80%E7%B6%BA%E8%AA%9E) | 影虎。& ikaruga_nex | 3.7.0(21/07/21) | 3 | 6 | 9 | 9+ |
+| [HIVEMIND](https://wikiwiki.jp/arcaea/HIVEMIND) | かたぎり | 3.7.0(21/07/21) | 4 | 8 | 10 |
+| [blue comet](https://wikiwiki.jp/arcaea/blue%20comet) | ああああ | 3.8.2(21/08/24) | 3 | 5 | 8 |
+| [ENERGY SYNERGY MATRIX](https://wikiwiki.jp/arcaea/ENERGY%20SYNERGY%20MATRIX) | Tanchiky | 3.8.4(21/09/08) | 3 | 7 | 9 | 10 |
+| [G e n g a o z o](https://wikiwiki.jp/arcaea/G%20e%20n%20g%20a%20o%20z%20o) | -45 | 3.8.6(21/09/29) | 4 | 8 | 10 |
+
+[[Edit "Main Story Act II: Catastrophe"]](https://wikiwiki.jp/arcaea/::cmd/areaedit?areaedit_no=2&inline_plugin=0&page=%E3%83%91%E3%83%83%E3%82%AF%E9%A0%86&digest=7827ee107a98e7145c9b0350e350bf25)
+
+4 Packs / 30 Songs
+
+## "Liminal Eclipse" Pack [5曲]
+
+交わる道、選んだ先へ、だから少女は...
+
+数多の世界を超え、導かれしは万全の世界。その異色の瞳を、真新しく豪奢な美の世界へと向けて。 未知なる神の回廊を探るマヤ、その最期の言葉と足跡を辿る、5つの楽曲。日に日に蝕む忘却に、残る少女の足跡。
+
+実装 : ver.6.9.0 (25/10/02) 有料コンテンツ : 500 メモリー エーテルの雫 : 5 個
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [Viola Illyria](https://wikiwiki.jp/arcaea/Viola%20Illyria) | Kolaa | 6.9.0(25/10/02) | 2 | 6 | 9 |
+| [Vainspire](https://wikiwiki.jp/arcaea/Vainspire) | satella | 6.9.0(25/10/02) | 3 | 7 | 8 | 9+ |
+| [No Way Back](https://wikiwiki.jp/arcaea/No%20Way%20Back) | Nhato | 6.9.0(25/10/02) | 4 | 7 | 8+ | 10 |
+| [ANDORXOR](https://wikiwiki.jp/arcaea/ANDORXOR) | Sobrem | 6.9.0(25/10/02) | 4 | 7+ | 9+ | 10+ |
+| [Undying Macula](https://wikiwiki.jp/arcaea/Undying%20Macula) | Ashrount | 6.9.0(25/10/02) | 5 | 8+ | 10 | 11 |
+
+## "Lucent Historia" Pack [7曲]
+
+神の揺り籠、還らぬ日の導きへ…
+
+旧き地に纏わる歴史が、いま甦る。ここに啓くは、導きと天啓の物語。 神の御霊の一端に触れ、過去を明かせ――。 異なる世界を巡る異譚『Lucent Historia』5つの新曲が示す、とある神の始まり。 それは、天賦第八究明者『慈哀』と――。 実装 : ver.6.0.0 (24/11/21) 有料コンテンツ : 500 メモリー エーテルの雫 : 5 個 パートナー : [天賦第八究明者 慈哀](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8#compassion)※パートナー解禁方法は各リンク先を参照。
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [Swan Song](https://wikiwiki.jp/arcaea/Swan%20Song) | void (Mournfinale) | 6.0.0(24/11/21) | 3 | 7 | 9+ |
+| [Renegade](https://wikiwiki.jp/arcaea/Renegade) | sky_delta | 6.0.0(24/11/21) | 4 | 7+ | 9 | 10 |
+| [Rays of Remnant](https://wikiwiki.jp/arcaea/Rays%20of%20Remnant) | May × Felysrator | 6.0.0(24/11/21) | 4 | 7 | 9+ | 10 |
+| [Breach of Faith](https://wikiwiki.jp/arcaea/Breach%20of%20Faith) | Supire feat.eili | 6.0.0(24/11/21) | 5 | 8 | 10 | 10+ |
+| [Lament Rain](https://wikiwiki.jp/arcaea/Lament%20Rain) | Ashrount vs. 打打だいず | 6.0.0(24/11/21) | 6 | 8+ | 10 | 11 |
+| [Designant.](https://wikiwiki.jp/arcaea/Designant.) | Designant | 6.0.0(24/11/21) | 7 | 9 | 10+ | 11+ |
+| [Astral Quantization](https://wikiwiki.jp/arcaea/Astral%20Quantization) | Dj Grimoire | 6.0.0(24/11/21) | 5 | 8 | 10 |
+
+## "Absolute Nihil" Pack [5曲]
+
+聳(そび)える真実、軋む理想、そして彼女は…
+
+敗れた信条、振り始める雨。哀れな誤謬と無辜の子を傍らに、女の行き先は虚無か、それとも…… 5つの楽曲と新たなストーリーを収録。パック『Absolute Reason』の所持でサヤの覚醒が可能になります。 実装 : ver.5.9.0 (24/07/30) 有料コンテンツ : 500 メモリー エーテルの雫 : 5 個 パートナー : [サヤ](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page2%29#saya)/ [彷徨 ヴィータ](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8#vitah)※パートナー解禁方法は各リンク先を参照。
+
+本パックを購入するとMemory Archiveの楽曲「 [Acheron](https://wikiwiki.jp/arcaea/Acheron)」の入手権を得ることができます。
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [In Vain](https://wikiwiki.jp/arcaea/In%20Vain) | ryhki | 5.9.0(24/07/30) | 3 | 6 | 9 |
+| [Hypnotize](https://wikiwiki.jp/arcaea/Hypnotize) | rejection | 5.9.0(24/07/30) | 3 | 7 | 8+ | 9+ |
+| [Ashen 6oundary](https://wikiwiki.jp/arcaea/Ashen%206oundary) | YUKIYANAGI | 5.9.0(24/07/30) | 4 | 7 | 9+ |
+| [Judgement](https://wikiwiki.jp/arcaea/Judgement) | Tatsunoshin | 5.9.0(24/07/30) | 5 | 8 | 10 |
+| [ALTER EGO](https://wikiwiki.jp/arcaea/ALTER%20EGO) | Yuta Imai vs Qlarabelle | 5.9.0(24/07/30) | 6 | 9 | 10 | 11 |
+
+ 
+
+## "Lasting Eden" Pack [13曲 (5 + 5 + 3)]
+
+欣幸(きんこう)か、余殃(よおう)か。二律背反のその趨勢(すうせい)へ
+
+Arcaea Song Contest『Imagining After』
+
+夜の毛布に包まれて、少女の双眸はきらめきに揺れる。それは、いつかの惨影から。 楽曲コンテスト第3回『Imagining After』、その入賞曲5つを収録。 追憶の夕暮れの中、マヤの道のりを見守ろう。 実装 : ver.4.7.0 (23/08/18) 有料コンテンツ : 500 メモリー エーテルの雫 : 5 個 パートナー : [マヤ](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8#maya)※パートナー解禁方法は各リンク先を参照。
+
+"Lasting Eden Chapter 2" Pack Append ▼
+
+かつての奮戦と悲劇、その名残さえ風は攫って。 嵐が来る、嵐が来る……Arcaeaは、改竄される。 楽曲コンテスト『Imagining After』より、5つの楽曲がLasting Edenに追加！ ……あなたは来た。そして今、雨は降る――。
+
+注意: Pack Append「Lasting Eden Chapter 2」の解禁には「Lasting Eden」メインパックの購入が必要です。
+
+実装 : ver.5.0.0 (23/09/27) 有料コンテンツ : 500 メモリー エーテルの雫 : 5 個
+
+"Shifting Veil" Pack Append ▼
+
+誰も予期などしなかった。誰も防げはしなかった。 ただ、降り掛かった現実だけが真実で。 ――待つモノは、ただ、未知数。 『Lasting Eden』に加わる新たな音色、『Imagining After』の入賞曲3つが追加。
+
+実装 : ver.5.1.0 (23/10/26) 有料コンテンツ : 300 メモリー エーテルの雫 : 3 個
+
+### "Severed Eden" Pack
+
+邂逅(かいこう)と、別離と。摂理改竄(かいざん)のその彼方へ
+
+天啓のような嵐の中で、千切られ消える、模糊なる雲々。……そして顕になる、真なる天穹。 啓く、拓く――新たな幕がいま、闢く。 《Main Story Act II - Catastrophe》 揺らぐなかれ、解れるなかれ。今、Arcaeaが変わっていく。
+
+パートナー : [天賦第八究明者 識眼](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8#insight)※パートナー解禁方法は各リンク先を参照。
+
+楽曲「 [Arghena](https://wikiwiki.jp/arcaea/Arghena)」、パートナー「 [天賦第八究明者 識眼](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8#insight)」の解禁後、パックの名前と画像が変更されます。 なお、パック右上には覚醒切り替えと同様の矢印アイコンが付き、これをタップするとパック名と画像を「Lasting Eden」に戻すことが可能となっています。
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [WAIT FOR DAWN](https://wikiwiki.jp/arcaea/WAIT%20FOR%20DAWN) | U-ske feat. 棗いつき | 4.7.0(23/08/18) | 2 | 7+ | 8+ |
+| [レイヴンズ・プライド](https://wikiwiki.jp/arcaea/%E3%83%AC%E3%82%A4%E3%83%B4%E3%83%B3%E3%82%BA%E3%83%BB%E3%83%97%E3%83%A9%E3%82%A4%E3%83%89) | みーに feat. はらもりよしな | 4.7.0(23/08/18) | 3 | 7 | 9 |
+| [Rise of the World](https://wikiwiki.jp/arcaea/Rise%20of%20the%20World) | cosMo@暴走P | 4.7.0(23/08/18) | 4 | 8 | 10 |
+| [UNKNOWN LEVELS](https://wikiwiki.jp/arcaea/UNKNOWN%20LEVELS) | Yuta Imai | 4.7.0(23/08/18) | 4 | 8 | 10 |
+| [Abstruse Dilemma](https://wikiwiki.jp/arcaea/Abstruse%20Dilemma) | Ashrount vs. 打打だいず | 4.7.0(23/08/18) | 5 | 8+ | 11 |
+| "Lasting Eden Chapter 2" Pack Append ▼ |
+| [Primeval Texture](https://wikiwiki.jp/arcaea/Primeval%20Texture) | くるぶっこちゃん | 5.0.0(23/09/27) | 3 | 7 | 9 |
+| [Technicolour](https://wikiwiki.jp/arcaea/Technicolour) | Maozon | 5.0.0(23/09/27) | 3 | 7 | 9+ |
+| [Logos](https://wikiwiki.jp/arcaea/Logos) | polysha feat. 高城みよ | 5.0.0(23/09/27) | 4 | 7+ | 10 |
+| [Ego Eimi](https://wikiwiki.jp/arcaea/Ego%20Eimi) | BlackY feat. Risa Yuzuki | 5.0.0(23/09/27) | 5 | 8 | 10 |
+| [Arghena](https://wikiwiki.jp/arcaea/Arghena) | Feryquitous vs Laur | 5.0.0(23/09/27) | 7 | 9 | 11 |
+| "Shifting Veil" Pack Append ▼ |
+| [Transient Space](https://wikiwiki.jp/arcaea/Transient%20Space) | sleepless, Gardens, aspect | 5.1.0(23/10/26) | 2 | 7 | 9 |
+| [Nameless Passion](https://wikiwiki.jp/arcaea/Nameless%20Passion) | 天束 feat.Sennzai | 5.1.0(23/10/26) | 3 | 7 | 9+ |
+| [TeraVolt](https://wikiwiki.jp/arcaea/TeraVolt) | Katali | 5.1.0(23/10/26) | 5 | 8+ | 10+ |
+
+[[Edit "Main Story Act I: Creation"]](https://wikiwiki.jp/arcaea/::cmd/areaedit?areaedit_no=4&inline_plugin=0&page=%E3%83%91%E3%83%83%E3%82%AF%E9%A0%86&digest=7827ee107a98e7145c9b0350e350bf25)
+
+6 Packs / 42 Songs
+
+## "Final Verdict" Pack [9曲]
+
+歪んだ道の果て、輝きの終わり。
+
+Arcaeaのメインストーリー、その最終章。暫くして迎える、物語の終末。 隠された4曲に加えて、『Final Verdict』パックでは、すべてを解禁するために他プレイヤーとの協同が必須となります。光と対立に待つような、底知れぬ試練がこの先、あなたを待つでしょう。
+
+実装 : ver.4.0.0 (22/07/07) 有料コンテンツ : 500 メモリー エーテルの雫 : 5 個 楽曲解禁コンテンツ : [Axiom of the End](https://wikiwiki.jp/arcaea/Axiom%20of%20the%20End)パートナー : [Fatalis 光](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8#hikarifatalis)※パートナー解禁方法は各リンク先を参照。
+
+開く終焉。綴る未来。
+
+『虚無』を越えた、更に先――涙さえ零せない、その空虚な場所で。 けれど少女は、独りじゃない。 まだ残る、希望の光があるから。
+
+あんな運命を、あなたは受け入れますか？ ――その終焉を、見届けて。
+
+楽曲解禁コンテンツ : [Silent Answer](https://wikiwiki.jp/arcaea/Silent%20Answer)実装 : ver.4.0.255 (22/07/13) パートナー : [Reunion 光と対立](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8#reunion)※パートナー解禁方法は各リンク先を参照。 ※「Final Verdict」パックを購入していれば解禁が可能(追加課金不要)。
+
+注意: 本パックの解禁には「Black Fate」パックの購入・ストーリー「VS-8」までの読了が必要です。
+
+### 購入の際の注意事項
+
+本パックの購入条件は「 [Black Fate](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%83%E3%82%AF%E9%A0%86#black)」パックの購入、及びストーリー「VS-8」までの読了です。 しかし、ストーリー「VS-8」開放には「Black Fate」パックに加え、「Luminous Sky」パックの購入が必要となっています。 解禁が必要なコンテンツと順番は以下の通りです。
+
+1. 「 [Luminous Sky](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%83%E3%82%AF%E9%A0%86#luminous)」パックの購入 <500 メモリー>
+2. [ワールドモード](https://wikiwiki.jp/arcaea/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%A2%E3%83%BC%E3%83%89/Chapter%203#lum-a)にてパートナー「 [Zero 光](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8#hikarizero)」を解禁
+3. 楽曲「 [Fracture Ray](https://wikiwiki.jp/arcaea/Fracture%20Ray)」を解禁
+4. [ワールドモード](https://wikiwiki.jp/arcaea/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%A2%E3%83%BC%E3%83%89/Chapter%203#lum-b)にてパートナー「 [Fracture 光](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8#hikarifr)」を解禁
+5. 「 [Black Fate](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%83%E3%82%AF%E9%A0%86#black)」パックの購入 <500 メモリー>
+6. 楽曲「 [Tempestissimo](https://wikiwiki.jp/arcaea/Tempestissimo)」を解禁
+7. 楽曲「 [Tempestissimo](https://wikiwiki.jp/arcaea/Tempestissimo)」を特定条件でプレイし、 [Tempest 対立入手マップ](https://wikiwiki.jp/arcaea/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%A2%E3%83%BC%E3%83%89/Chapter%205#tairitsutmp)を解禁
+8. [ワールドモード](https://wikiwiki.jp/arcaea/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%A2%E3%83%BC%E3%83%89/Chapter%205#tairitsutmp)にてパートナー「 [Tempest 対立](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8#tairitsutmp)」を解禁
+9. [ワールドモード](https://wikiwiki.jp/arcaea/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%A2%E3%83%BC%E3%83%89/Chapter%205#arcahv)にて楽曲「 [Arcahv](https://wikiwiki.jp/arcaea/Arcahv)」を解禁し、ストーリー「VS-8」を読了する
+
+また、パートナー「 [Tempest 対立](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8#tairitsutmp)」の解禁作業では、「 [Tempestissimo](https://wikiwiki.jp/arcaea/Tempestissimo)」のPRS譜面(Level 9、譜面定数9.5)以上のサビ以降を特殊ゲージで完走することが求められます。 よって、最低でもLevel 9の上位譜面をHARDゲージで完走できる程度の実力が必要となります。
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [Defection](https://wikiwiki.jp/arcaea/Defection) | TeddyLoid feat. DELTA | 4.0.0(22/07/07) | 3 | 6 | 9+ |
+| [Infinite Strife,](https://wikiwiki.jp/arcaea/Infinite%20Strife%2C) | BlackYooh vs. siromaru | 4.0.0(22/07/07) | 4 | 7 | 9+ | 10+ |
+| [魔王](https://wikiwiki.jp/arcaea/%E9%AD%94%E7%8E%8B) | sasakure.UK × TJ.hangneil | 4.0.0(22/07/07) | 4 | 7+ | 10 | 11 |
+| [Pentiment](https://wikiwiki.jp/arcaea/Pentiment) | Nothing But Requiem with Museo | 4.0.0(22/07/07) | 7 | 8+ | 10 | 11 |
+| [Arcana Eden](https://wikiwiki.jp/arcaea/Arcana%20Eden) | Team Grimoire vs Sakuzyo vs Laur | 4.0.0(22/07/07) | 5 | 8+ | 10 | 11 |
+| [Testify](https://wikiwiki.jp/arcaea/Testify) | void (Mournfinale) feat. 星熊南巫 | 4.0.0(22/07/07) | 7+ | 9 | 10+ | 12 |
+| Silent Answer ▼ |
+| [Loveless Dress](https://wikiwiki.jp/arcaea/Loveless%20Dress) | かねこちはる | 4.0.255(22/07/13) | 3 | 6 | 9+ |
+| [Last](https://wikiwiki.jp/arcaea/Last) | onoken | 4.0.255(22/07/13) | 4 | 7 | 9 | 9 |
+| 9+ |
+| [Callima Karma](https://wikiwiki.jp/arcaea/Callima%20Karma) | t+pazolite vs Feryquitous | 4.0.255(22/07/13) | 3 | 7 | 9+ |
+
+## "Black Fate" Pack [7曲]
+
+真実に眩(くら)み、転がる道の昏(くら)き果てに...
+
+嵐は来るーーすぐに近くまで。和解はきっと、できないかもしれない。これが唯一、許される運命なのだろうか。 選んだ道の先、二人が見出す真実とはーー。 Arcaeaメインストーリーの続編です。ここまでの物語をクリアの後、購入を推奨します。 実装 : ver.3.0.0 (20/05/27) 有料コンテンツ : 500 メモリー エーテルの雫 : 5 個 パートナー : [Tempest 対立](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8#tairitsutmp)※パートナー解禁方法は各リンク先を参照。
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [Equilibrium](https://wikiwiki.jp/arcaea/Equilibrium) | Maozon | 3.0.0(20/05/27) | 3 | 6 | 9 |
+| [Antagonism](https://wikiwiki.jp/arcaea/Antagonism) | Yooh vs. siromaru | 3.0.0(20/05/27) | 4 | 7+ | 9+ |
+| [Lost Desire](https://wikiwiki.jp/arcaea/Lost%20Desire) | Powerless feat. Sennzai | 3.0.0(20/05/27) | 4 | 7+ | 9+ |
+| [Dantalion](https://wikiwiki.jp/arcaea/Dantalion) | Team Grimoire | 3.0.0(20/05/27) | 5 | 8 | 10+ |
+| [#1f1e33](https://wikiwiki.jp/arcaea/_1f1e33) | かめりあ(EDP) | 3.0.0(20/05/27) | 5 | 9 | 11 |
+| [Tempestissimo](https://wikiwiki.jp/arcaea/Tempestissimo) | t+pazolite | 3.0.0(20/05/27) | 7 | 9 | 10+ | 11 |
+| [Arcahv](https://wikiwiki.jp/arcaea/Arcahv) | Feryquitous | 3.0.0(20/05/27) | 4 | 7+ | 9+ |
+
+## "Adverse Prelude" Pack [5曲]
+
+邂逅(かいこう)し、対向する二人、けれど少女は...
+
+果てなき旅路の最中、叶い得なかった邂逅。一方は白き少女、もう一方には黒き少女。 ーーーーーそして今、2つの宿命が1つに交わる。 ここに在りしは不朽の楽曲が5つ、邂逅が導くのはいずこなりや？ 実装 : ver.2.2.0 (19/07/18) 有料コンテンツ : 400 メモリー エーテルの雫 : 4 個
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [Saint or Sinner](https://wikiwiki.jp/arcaea/Saint%20or%20Sinner) | crayvxn | 5.10.4(24/09/26) | 3 | 6 | 8+ | 10 |
+| [Vindication](https://wikiwiki.jp/arcaea/Vindication) | Laur | 2.2.0(19/07/18) | 4 | 6 | 9 |
+| [Heavensdoor](https://wikiwiki.jp/arcaea/Heavensdoor) | LeaF | 2.2.0(19/07/18) | 4 | 7 | 9+ | 10+ |
+| [Ringed Genesis](https://wikiwiki.jp/arcaea/Ringed%20Genesis) | Edelritter | 2.2.0(19/07/18) | 5 | 8 | 10+ |
+| [BLRINK](https://wikiwiki.jp/arcaea/BLRINK) | Sta | 2.5.3(20/03/09) | 3 | 7+ | 9+ |
+| ver.5.10.4にて削除 ▼ |
+| [Particle Arts](https://wikiwiki.jp/arcaea/Particle%20Arts) | Virtual Self | 2.2.0(19/07/18) | 3 | 6 | 8+ |
+
+## "Luminous Sky" Pack [6曲]
+
+光り輝く空の下、少女の心は虚ろへと...
+
+頭上に燦めくArcaeaで編まれた空。 いまだ知り得ぬ終幕へと続く、光の記憶と心の目覚めを巡る苛烈な旅に旅立ちましょう。 終焉の淵で待つアノマリー、はたしてそれは彼女にとっての救いとなるかーー？ 実装 : ver.1.7.0 (18/07/16) 有料コンテンツ : 500 メモリー エーテルの雫 : 5 個 パートナー : [Zero 光](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8#hikarizero)/ [Fracture 光](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8#hikarifr)※パートナー解禁方法は各リンク先を参照。
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [九番目の迷路](https://wikiwiki.jp/arcaea/%E4%B9%9D%E7%95%AA%E7%9B%AE%E3%81%AE%E8%BF%B7%E8%B7%AF) | アリスシャッハと魔法の楽団 | 1.7.0(18/07/16) | 3 | 3 | 8+ |
+| [The Message](https://wikiwiki.jp/arcaea/The%20Message) | Jun Kuroda | 1.7.0(18/07/16) | 3 | 6 | 9+ |
+| [Sulfur](https://wikiwiki.jp/arcaea/Sulfur) | ぺのれり | 1.7.0(18/07/16) | 4 | 6 | 9+ |
+| [Halcyon](https://wikiwiki.jp/arcaea/Halcyon) | xi | 1.7.0(18/07/16) | 5 | 8 | 10 |
+| [Ether Strike](https://wikiwiki.jp/arcaea/Ether%20Strike) | Akira Complex | 1.7.0(18/07/16) | 5 | 8 | 10 |
+| [Fracture Ray](https://wikiwiki.jp/arcaea/Fracture%20Ray) | Sakuzyo | 1.7.0(18/07/16) | 6 | 9 | 11 |
+
+## "Vicious Labyrinth" Pack [6曲]
+
+歪められた彼女の未来の先には...
+
+アーケアの世界に、悲しみの波が広がる... 先に待ち受けているのは、危険な「アノマリー」。対立が追求するその深く、ねじれた過去を体験せよ... 激しくも、挑戦的な楽曲をご用意しました 実装 : ver.1.5.0 (17/11/03) 有料コンテンツ : 500 メモリー エーテルの雫 : 5 個 パートナー : [Axium 対立](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8#tairitsuac)/ [Grievous Lady 対立](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8#tairitsugl)※パートナー解禁方法は各リンク先を参照。
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [Iconoclast](https://wikiwiki.jp/arcaea/Iconoclast) | Yamajet | 1.5.0(17/11/03) | 4 | 7 | 9 |
+| [SOUNDWiTCH](https://wikiwiki.jp/arcaea/SOUNDWiTCH) | HATE | 1.5.0(17/11/03) | 3 | 6 | 9+ |
+| [妖艶魔女 -trappola bewitching-](https://wikiwiki.jp/arcaea/%E5%A6%96%E8%89%B6%E9%AD%94%E5%A5%B3%20-trappola%20bewitching-) | gmtn. | 1.5.0(17/11/03) | 3 | 6 | 9+ | 10 |
+| [conflict](https://wikiwiki.jp/arcaea/conflict) | siromaru + cranky | 1.5.0(17/11/03) | 4 | 7 | 10 |
+| [Axium Crisis](https://wikiwiki.jp/arcaea/Axium%20Crisis) | ak+q | 1.5.0(17/11/03) | 5 | 8 | 10 | 11 |
+| [Grievous Lady](https://wikiwiki.jp/arcaea/Grievous%20Lady) | Team Grimoire vs Laur | 1.5.0(17/11/03) | 6 | 9 | 11 |
+
+## "Eternal Core" Pack [9曲]
+
+時を刻んだ無限の中核へ
+
+オリジナル曲を開放する拡張パック『エターナルコア』をアンロックし アーケアの失われた世界で『光』と『対立』が奏でる物語をあなた自身の力で探求しよう！ 実装 : ver.1.0.5 (17/03/09) 有料コンテンツ : 500 メモリー エーテルの雫 : 5 個
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [cry of viyella](https://wikiwiki.jp/arcaea/cry%20of%20viyella) | Laur | 1.0.5(17/03/09) | 3 | 6 | 8+ |
+| [I've heard it said](https://wikiwiki.jp/arcaea/I%27ve%20heard%20it%20said) | Combatplayer | 1.0.5(17/03/09) | 3 | 6 | 8 |
+| [memoryfactory.lzh](https://wikiwiki.jp/arcaea/memoryfactory.lzh) | Frums | 1.0.5(17/03/09) | 2 | 5 | 8+ |
+| [Relentless](https://wikiwiki.jp/arcaea/Relentless) | Akira Complex | 1.0.5(17/03/09) | 4 | 6 | 8 |
+| [Lumia](https://wikiwiki.jp/arcaea/Lumia) | sky_delta | 1.0.5(17/03/09) | 2 | 5 | 8 | 9 |
+| [Essence of Twilight](https://wikiwiki.jp/arcaea/Essence%20of%20Twilight) | ak+q | 1.0.5(17/03/09) | 4 | 7 | 9 |
+| [PRAGMATISM](https://wikiwiki.jp/arcaea/PRAGMATISM) | Laur | 1.0.5(17/03/09) | 4 | 8 | 10 | 11 |
+| [Sheriruth](https://wikiwiki.jp/arcaea/Sheriruth) | Team Grimoire | 1.0.5(17/03/09) | 5 | 7 | 10 |
+| [虚空の夢](https://wikiwiki.jp/arcaea/%E8%99%9A%E7%A9%BA%E3%81%AE%E5%A4%A2) | ak+q feat. Sennzai | 1.9.2(19/03/09) | 4 | 7 | 8+ |
+
+[[Edit "Side Story"]](https://wikiwiki.jp/arcaea/::cmd/areaedit?areaedit_no=6&inline_plugin=0&page=%E3%83%91%E3%83%83%E3%82%AF%E9%A0%86&digest=7827ee107a98e7145c9b0350e350bf25)
+
+9 Packs / 66 Songs
+
+## "Extant Anima" Pack [10曲 (5 + 5)]
+
+ああ、彼女が周り眩む、彼方から此方へ…
+
+Arcaea Song Contest『Coalescence』
+
+楽曲コンテスト第4回『Coalescence』より、5つの入賞曲が登場──いま、呼び声が聞こえる。 美しい光と音に満ちた宇宙の旅へ、『ノノカ』と共に、いざ出発！ ───さあ、遥かなる『光』をめざして！
+
+実装 : ver.6.7.0 (25/07/24) 有料コンテンツ : 500 メモリー エーテルの雫 : 5 個 パートナー : [ノノカ](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page2%29#nonoka)※パートナー解禁方法は各リンク先を参照。
+
+"Chapter Experientia" Pack Append ▼
+
+手を開いたあなたに来たあなたに手を開いた 来たりて開け、その眼球、その耳朶を、宇宙と万象が崩れるその福音に向けて。 楽曲コンテスト『Coalescence』、大いなる青の奥底から、さらなる入賞曲。新たに5つがExtant Animaパックに登場。 実装 : ver.6.8.0 (25/08/21) 有料コンテンツ : 500 メモリー エーテルの雫 : 5 個
+
+### 隠し要素
+
+融ける声、触れる知恵、『唄』がきこえる。
+
+Extant AnimaおよびExtant Anima Chapter Experientiaのストーリーをすべて読了すると、パックの画像がノノカ（群青）に変更され、副題が上記の文面に変更されます。 同時にパック右上に覚醒切り替えと同様の矢印アイコンが付き、これをタップすることでパック画像を元に戻すことが可能となっています。
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [See the Lights!](https://wikiwiki.jp/arcaea/See%20the%20Lights%21) | polysha feat. しろさきあや | 6.7.0(25/07/24) | 3 | 6 | 8 | 9 |
+| [朱月ノ姫](https://wikiwiki.jp/arcaea/%E6%9C%B1%E6%9C%88%E3%83%8E%E5%A7%AB) | technoplanet feat. 夕月ティア | 6.7.0(25/07/24) | 3 | 7 | 9+ |
+| [Dual Dependency](https://wikiwiki.jp/arcaea/Dual%20Dependency) | seatrus | 6.7.0(25/07/24) | 4 | 7+ | 9 | 10 |
+| [Lilly](https://wikiwiki.jp/arcaea/Lilly) | Juggernaut. | 6.7.0(25/07/24) | 5 | 8 | 9+ | 10+ |
+| [多次元宇宙融合論](https://wikiwiki.jp/arcaea/%E5%A4%9A%E6%AC%A1%E5%85%83%E5%AE%87%E5%AE%99%E8%9E%8D%E5%90%88%E8%AB%96) | TAKIO feat. つぐ | 6.7.0(25/07/24) | 6 | 8+ | 10 | 11 |
+| "Chapter Experientia" Pack Append ▼ |
+| [Factorder](https://wikiwiki.jp/arcaea/Factorder) | 瀬名 feat. 梨雛 | 6.8.0(25/08/21) | 2 | 6 | 8 | 9 |
+| [incomplete the one](https://wikiwiki.jp/arcaea/incomplete%20the%20one) | Halv feat.Kuroa* | 6.8.0(25/08/21) | 3 | 7 | 8+ | 9+ |
+| [CHAOSBLAST](https://wikiwiki.jp/arcaea/CHAOSBLAST) | QURELESS + 柚子花 | 6.8.0(25/08/21) | 4 | 7+ | 9 | 10 |
+| [Welcome, Queen of Fiction.](https://wikiwiki.jp/arcaea/Welcome%2C%20Queen%20of%20Fiction.) | 打打だいず | 6.8.0(25/08/21) | 5 | 8 | 10 | 10+ |
+| [AlterGate](https://wikiwiki.jp/arcaea/AlterGate) | MisoilePunch♪ ~タケノコ添え~ | 6.8.0(25/08/21) | 5 | 8+ | 10+ |
+
+## "Esoteric Order" Pack [12曲 (6 + 3 + 3)]
+
+解かれる理、解けた現実、最果て。
+
+Arcaea Song Contest 2020
+
+世界の果て、前人未踏のその場所で、佇む少女が、ただひとり。 ラグランジュとカロンをテーマに、Arcaea楽曲コンテスト2020より、本楽曲パックでは6つの受賞曲を収録！ 実装 : ver.3.6.0 (21/05/11) 有料コンテンツ : 500 メモリー エーテルの雫 : 5 個 パートナー : [ラグランジュ](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page2%29#lagrange)※パートナー解禁方法は各リンク先を参照。
+
+"Pale Tapestry" Pack Append ▼
+
+彼方を超えて広がる、世界という織物。遠く遠く、その果てはーー。 Esoteric Orderに加わる、Arcaea楽曲コンテスト2020受賞曲、3つの新曲を目撃せよ！ 実装 : ver.3.6.0 (21/05/11) 有料コンテンツ : 300 メモリー エーテルの雫 : 3 個
+
+"Light of Salvation" Pack Append ▼
+
+光と対立の世界へと導く、終わりなき虚無に、現れた天啓。 『Esoteric Order』に加わる、新たな光。Arcaea楽曲コンテスト2020、受賞曲から新たに3曲が登場。 実装 : ver.3.7.0 (21/07/21) 有料コンテンツ : 300 メモリー エーテルの雫 : 3 個
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [Paper Witch](https://wikiwiki.jp/arcaea/Paper%20Witch) | Yu-dachi | 3.6.0(21/05/11) | 2 | 5 | 8 |
+| [Crystal Gravity](https://wikiwiki.jp/arcaea/Crystal%20Gravity) | Tanchiky vs. siromaru | 3.6.0(21/05/11) | 3 | 6 | 9 |
+| [Far Away Light](https://wikiwiki.jp/arcaea/Far%20Away%20Light) | technoplanetfeat. はるの&黒沢ダイスケ | 3.6.0(21/05/11) | 4 | 7+ | 9+ |
+| [Löschen](https://wikiwiki.jp/arcaea/L%C3%B6schen) | BlackY feat. Risa Yuzuki | 3.6.0(21/05/11) | 3 | 7 | 10 |
+| [Aegleseeker](https://wikiwiki.jp/arcaea/Aegleseeker) | Silentroom vs Frums | 3.6.0(21/05/11) | 5 | 9 | 11 |
+| [Seclusion](https://wikiwiki.jp/arcaea/Seclusion) | Laur feat. Sennzai | 3.7.0(21/07/21) | 4 | 7 | 10 |
+| "Pale Tapestry" Pack Append ▼ |
+| [Coastal Highway](https://wikiwiki.jp/arcaea/Coastal%20Highway) | Glitch Droids | 3.6.0(21/05/11) | 3 | 6 | 9 |
+| [ΟΔΥΣΣΕΙΑ](https://wikiwiki.jp/arcaea/%CE%9F%CE%94%CE%A5%CE%A3%CE%A3%CE%95%CE%99%CE%91) | Sober Bear | 3.6.0(21/05/11) | 4 | 7+ | 9 |
+| [Overwhelm](https://wikiwiki.jp/arcaea/Overwhelm) | xi | 3.6.0(21/05/11) | 5 | 8 | 10 |
+| "Light of Salvation" Pack Append ▼ |
+| [Small Cloud Sugar Candy](https://wikiwiki.jp/arcaea/Small%20Cloud%20Sugar%20Candy) | テヅカ × Aoi feat.桃雛なの | 3.7.0(21/07/21) | 3 | 6 | 9 | 10 |
+| [AlterAle](https://wikiwiki.jp/arcaea/AlterAle) | Arik Kau Delay(アラ&かゆき&でり) | 3.7.0(21/07/21) | 3 | 6 | 9+ |
+| [光速神授説- Divine Light of Myriad -](https://wikiwiki.jp/arcaea/%E5%85%89%E9%80%9F%E7%A5%9E%E6%8E%88%E8%AA%AC%20-%20Divine%20Light%20of%20Myriad%20-) | yoho | 3.7.0(21/07/21) | 4 | 7+ | 10+ |
+
+## "Divided Heart" Pack [5曲]
+
+孤独の夢、虚栄の冠。きっと願いは...
+
+分かたれた空の下で、苛むのは割り切れない不定性。 だからこそ貴く、胸を張る。 優雅に、なだらかに、その道を彩る5つの新曲と共に、白姫(シラヒメ)の旅路を辿ろう。 実装 : ver.3.10.0 (21/12/09) 有料コンテンツ : 500 メモリー エーテルの雫 : 5 個 パートナー : [白姫](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page2%29#shirahime)※パートナー解禁方法は各リンク先を参照。
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [First Snow](https://wikiwiki.jp/arcaea/First%20Snow) | 黒魔 | 3.10.0(21/12/09) | 2 | 4 | 7+ |
+| [Blue Rose](https://wikiwiki.jp/arcaea/Blue%20Rose) | Cosmograph | 3.10.0(21/12/09) | 2 | 6 | 9 |
+| [Blocked Library](https://wikiwiki.jp/arcaea/Blocked%20Library) | 影虎。 | 3.10.0(21/12/09) | 3 | 6 | 9 |
+| [nέο κόsmo](https://wikiwiki.jp/arcaea/n%CE%AD%CE%BF%20%CE%BA%CF%8Csmo) | ak+q × Street | 3.10.0(21/12/09) | 4 | 7+ | 9+ |
+| [Lightning Screw](https://wikiwiki.jp/arcaea/Lightning%20Screw) | HiTECH NINJA | 3.10.0(21/12/09) | 4 | 7+ | 10 |
+
+## "Ephemeral Page" Pack [8曲 (5 + 3)]
+
+開く頁(ページ)、融ける虚実。そして少女は…
+
+常に手が届きそうに思えても、真に現実を掴むことなど誰にも出来はしない。 真実と虚実が入り交じる、アリスとテニエルの旅を追いかけよう。スタイリッシュなアップビートを道連れに。 実装 : ver.3.3.0 (20/12/03) 有料コンテンツ : 500 メモリー エーテルの雫 : 5 個 パートナー : [アリス & テニエル](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page2%29#alicetenniel)※パートナー解禁方法は各リンク先を参照。
+
+"The Journey Onwards" Pack Append ▼
+
+探求の旅路、そこに終わりは訪れない。 アリスと巡る3つの楽曲。『Ephemeral Page』に加わる新たな頁。そしてArcaeaの情景は果て無く流れていく。 実装 : ver.3.3.1 (20/12/09) 有料コンテンツ : 300 メモリー エーテルの雫 : 3 個
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [Alice à la mode](https://wikiwiki.jp/arcaea/Alice%20a%20la%20mode) | Masanori Akita | 3.3.0(20/12/03) | 2 | 6 | 9 |
+| [Eccentric Tale](https://wikiwiki.jp/arcaea/Eccentric%20Tale) | Yamajet | 3.3.0(20/12/03) | 2 | 5 | 8 | 9+ |
+| [Alice's Suitcase](https://wikiwiki.jp/arcaea/Alice%27s%20Suitcase) | Endorfin. | 3.3.0(20/12/03) | 3 | 6 | 9 |
+| [Jump](https://wikiwiki.jp/arcaea/Jump) | Rasmus Faber | 3.3.0(20/12/03) | 4 | 6 | 9 |
+| [Felis](https://wikiwiki.jp/arcaea/Felis) | M2U | 3.3.0(20/12/03) | 4 | 7 | 10 |
+| "The Journey Onwards" Pack Append ▼ |
+| [Beside You](https://wikiwiki.jp/arcaea/Beside%20You) | 江口孝宏 | 3.3.1(20/12/09) | 2 | 6 | 8+ |
+| [Heart Jackin'](https://wikiwiki.jp/arcaea/Heart%20Jackin%27) | Yu_Asahina | 3.3.1(20/12/09) | 3 | 5 | 9+ |
+| [アリス・リデルに捧ぐ](https://wikiwiki.jp/arcaea/%E3%82%A2%E3%83%AA%E3%82%B9%E3%83%BB%E3%83%AA%E3%83%87%E3%83%AB%E3%81%AB%E6%8D%A7%E3%81%90) | モリモリあつし | 3.3.1(20/12/09) | 4 | 7 | 10 |
+
+## "Sunset Radiance" Pack [6曲]
+
+叶った望みと共に、祭は夜へと沈み行く...
+
+Arcaea Song Contest 2019
+
+かつての祭事は胸に秘め、雪原を越え、吹雪を越え、ただ歩く。願いの標、彩られた夢想はその先に。 さあ、叶永の旅路を辿ろう。かつての楽曲コンテスト入賞曲5つに、新たな楽曲1つをなぞって。 実装 : ver.2.3.0 (19/08/22) 有料コンテンツ : 500 メモリー エーテルの雫 : 5 個 パートナー : [叶永](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page2%29#kanae)※パートナー解禁方法は各リンク先を参照。
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [Chelsea](https://wikiwiki.jp/arcaea/Chelsea) | 7mai | 2.3.0(19/08/22) | 3 | 6 | 8+ |
+| [AI[UE]OON](https://wikiwiki.jp/arcaea/AI_UE_OON) | MYUKKE. | 2.3.0(19/08/22) | 3 | 6 | 9 |
+| [迷える音色は恋の唄](https://wikiwiki.jp/arcaea/%E8%BF%B7%E3%81%88%E3%82%8B%E9%9F%B3%E8%89%B2%E3%81%AF%E6%81%8B%E3%81%AE%E5%94%84) | からとPαnchii少年 feat. はるの | 2.3.0(19/08/22) | 3 | 7 | 9 |
+| [Tie me down gently](https://wikiwiki.jp/arcaea/Tie%20me%20down%20gently) | 溝口ゆうま feat. 大瀬良あい | 2.3.0(19/08/22) | 3 | 5 | 8 |
+| [Valhalla:0](https://wikiwiki.jp/arcaea/Valhalla_0) | Juggernaut. | 2.3.0(19/08/22) | 4 | 7 | 10 |
+| [蛍火の雪](https://wikiwiki.jp/arcaea/%E8%9B%8D%E7%81%AB%E3%81%AE%E9%9B%AA) | Endorfin. | 5.2.6(24/01/12) | 3 | 7 | 9+ |
+
+## "Absolute Reason" Pack [5曲]
+
+絶対的真実を求める中で、彼女は...
+
+想い出は現実への窓。解明を待つ謎が君を呼ぶ...。 究極の真実を求め、謎めいた少女と慈悲なき旅路を往こう。新しい5つのハードな曲を超えて。 実装 : ver.2.0.0 (19/03/21) 有料コンテンツ : 500 メモリー エーテルの雫 : 5 個 パートナー : [サヤ](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page2%29#saya)※パートナー解禁方法は各リンク先を参照。
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [Antithese](https://wikiwiki.jp/arcaea/Antithese) | Blacklolita | 2.0.0(19/03/21) | 2 | 5 | 8+ | 9 |
+| [Black Territory](https://wikiwiki.jp/arcaea/Black%20Territory) | DJ Myosuke | 2.0.0(19/03/21) | 3 | 7 | 9+ |
+| [Corruption](https://wikiwiki.jp/arcaea/Corruption) | 3R2 | 2.0.0(19/03/21) | 3 | 6 | 9+ |
+| [Vicious Heroism](https://wikiwiki.jp/arcaea/Vicious%20Heroism) | Kobaryo | 2.0.0(19/03/21) | 4 | 7 | 10 | 11 |
+| [Cyaegha](https://wikiwiki.jp/arcaea/Cyaegha) | USAO | 2.0.0(19/03/21) | 5 | 8 | 10+ |
+
+## "Binary Enfold" Pack [8曲 (5 + 3)]
+
+秘められし未知未踏の新世界へ...
+
+不思議な双子「エト」と「ルナ」に連れられて、未知で鮮烈な新世界に飛び込みましょう。 エトの遠い記憶を巡る旅と、ルナの無慈悲な試練に挑むために。 実装 : ver.1.6.0 (18/03/23) 有料コンテンツ : 500 メモリー エーテルの雫 : 5 個 パートナー : [エト](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page2%29#eto)/ [ルナ](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page2%29#luna)※パートナー解禁方法は各リンク先を参照。
+
+"Shared Time" Pack Append ▼
+
+陽光を見上げる星と月は、いまだ夜を待つばかり。 エトとルナの二人と今再び、新たにBinary Enfoldに加わる3つの新曲を体験せよ！ 実装 : ver.3.9.0 (21/11/11) 有料コンテンツ : 300 メモリー エーテルの雫 : 3 個
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [next to you](https://wikiwiki.jp/arcaea/next%20to%20you) | uma feat. 橘花音 | 1.6.0(18/03/23) | 4 | 7 | 8+ | 9 |
+| [Silent Rush](https://wikiwiki.jp/arcaea/Silent%20Rush) | Soleily | 1.6.0(18/03/23) | 2 | 5 | 8 |
+| [Strongholds](https://wikiwiki.jp/arcaea/Strongholds) | Yooh | 1.6.0(18/03/23) | 2 | 5 | 9 |
+| [Memory Forest](https://wikiwiki.jp/arcaea/Memory%20Forest) | ETIA. | 1.6.0(18/03/23) | 3 | 6 | 9+ |
+| [Singularity](https://wikiwiki.jp/arcaea/Singularity) | ETIA. | 1.6.0(18/03/23) | 4 | 7+ | 10 | 10 |
+| "Shared Time" Pack Append ▼ |
+| [Cosmica](https://wikiwiki.jp/arcaea/Cosmica) | Nhato | 3.9.0(21/11/11) | 2 | 5 | 8+ |
+| [Ascent](https://wikiwiki.jp/arcaea/Ascent) | TANUKI | 3.9.0(21/11/11) | 3 | 6 | 9+ |
+| [Live Fast Die Young](https://wikiwiki.jp/arcaea/Live%20Fast%20Die%20Young) | anubasu-anubasu | 3.9.0(21/11/11) | 4 | 8 | 10 |
+
+## "Ambivalent Vision" Pack [6曲]
+
+彼女の瞳に映る世界に...
+
+過去の世界は、ぼんやりとした思い出の霧に覆われている... レーテーと共に、過去と未来の世界の相反する時の流れを覗きに行こう。 初心者にも経験者にも楽しめるように作られた新しいパックで、君のスキルを磨こう！ 実装 : ver.1.1.4 (17/08/10) 有料コンテンツ : 500 メモリー エーテルの雫 : 5 個 パートナー : [レーテー](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page2%29#lethe)/ [Apophenia レーテー](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page2%29#letheap)※レーテーはパック購入と同時にパートナー解禁。Apopenia レーテーに関しては、リンク先参照。
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [Blossoms](https://wikiwiki.jp/arcaea/Blossoms) | T2Kazuya | 1.1.4(17/08/10) | 1 | 4 | 7 |
+| [vsキミ戦争](https://wikiwiki.jp/arcaea/vs%E3%82%AD%E3%83%9F%E6%88%A6%E4%BA%89) | U-ske (feat. lueur) | 1.1.4(17/08/10) | 1 | 4 | 7+ |
+| [Moonheart](https://wikiwiki.jp/arcaea/Moonheart) | 翡乃イスカ | 1.1.4(17/08/10) | 2 | 5 | 8 | 9+ |
+| [Genesis](https://wikiwiki.jp/arcaea/Genesis) | Iris | 1.1.4(17/08/10) | 2 | 5 | 8 |
+| [Lethaeus](https://wikiwiki.jp/arcaea/Lethaeus) | Silentroom | 1.1.4(17/08/10) | 3 | 6 | 9+ |
+| [corps-sans-organes](https://wikiwiki.jp/arcaea/corps-sans-organes) | cybermiso | 2.6.0(20/03/25) | 4 | 7+ | 10 |
+
+## "Crimson Solace" Pack [6曲]
+
+真紅く染まった追憶より
+
+ーーそれはどこか懐かしくも楽しげで、しかし今は失われた世界。 新規書き下ろし楽曲多数！紅い安息に沈んだ欠片たちをめぐりながら、アーケアの明るい世界を旅しましょう。新しい仲間、"紅(コウ)"と共に。 実装 : ver.1.0.11 (17/05/11) 有料コンテンツ : 500 メモリー エーテルの雫 : 5 個 パートナー : [紅](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page2%29#kou)※パック購入と同時にパートナー解禁。
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [Paradise](https://wikiwiki.jp/arcaea/Paradise) | Sound Souler | 1.0.11(17/05/11) | 1 | 4 | 7+ |
+| [Flashback](https://wikiwiki.jp/arcaea/Flashback) | ARForest | 1.0.11(17/05/11) | 2 | 5 | 8+ |
+| [フライブルクとエンドロウル](https://wikiwiki.jp/arcaea/%E3%83%95%E3%83%A9%E3%82%A4%E3%83%96%E3%83%AB%E3%82%AF%E3%81%A8%E3%82%A8%E3%83%B3%E3%83%89%E3%83%AD%E3%82%A6%E3%83%AB) | アリスシャッハと魔法の楽団 | 1.0.11(17/05/11) | 3 | 6 | 9 |
+| [Party Vinyl](https://wikiwiki.jp/arcaea/Party%20Vinyl) | モリモリあつし | 1.0.11(17/05/11) | 4 | 7+ | 9 | 10 |
+| [Nirv lucE](https://wikiwiki.jp/arcaea/Nirv%20lucE) | しーけー | 1.0.11(17/05/11) | 2 | 7 | 10 |
+| [GLORY：ROAD](https://wikiwiki.jp/arcaea/GLORY%EF%BC%9AROAD) | uma vs. モリモリあつし | 2.4.0(19/10/08) | 4 | 7 | 10 |
+
+[[Edit "Collaboration"]](https://wikiwiki.jp/arcaea/::cmd/areaedit?areaedit_no=0&inline_plugin=0&page=%E3%83%91%E3%83%83%E3%82%AF%E9%A0%86%28Page2%29&digest=0093fbcd83cc9a06e20373414e977ff3)
+
+15 Packs / 123 Songs
+
+## "MEGAREX Collaboration" Pack [5曲]
+
+『MEGAREX』
+
+Collaboration Pack
+
+未来の背中はもう見えている。 影すら千切って、地平の先へと駆け抜けろ！
+
+MEGAREXから4つの名曲に加え、 コラボオリジナル楽曲1つを収録。 朝と夜の境界に輝く、『白姫 (Flow)』も登場！
+
+実装 : ver.6.12.0 (26/01/29) 有料コンテンツ : 500 メモリー エーテルの雫 : 5 個 パートナー : [Flow 白姫](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page4%29#shirahimef)※パートナー解禁方法は各リンク先を参照。
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [CHAIN2NITE](https://wikiwiki.jp/arcaea/CHAIN2NITE) | asuzora feat. cyber milk ちゃん | 6.12.0(26/01/29) | 4 | 6 | 8 | 9+ |
+| [One Step Closer](https://wikiwiki.jp/arcaea/One%20Step%20Closer) | Mameyudoufu × 藍月なくる | 6.12.0(26/01/29) | 3 | 7 | 9 |
+| [My life is mine alone!](https://wikiwiki.jp/arcaea/My%20life%20is%20mine%20alone%21) | Mylta feat. ねんね | 6.12.0(26/01/29) | 2 | 5 | 8+ | 10 |
+| [メルティーラプソディー](https://wikiwiki.jp/arcaea/%E3%83%A1%E3%83%AB%E3%83%86%E3%82%A3%E3%83%BC%E3%83%A9%E3%83%97%E3%82%BD%E3%83%87%E3%82%A3%E3%83%BC) | lapix feat. PANXI | 6.12.0(26/01/29) | 3 | 7 | 9 | 10 |
+| [Signal](https://wikiwiki.jp/arcaea/Signal) | rejection feat. Such | 6.12.0(26/01/29) | 4 | 7+ | 9+ | 10+ |
+
+## "Arcaea Next Stage" Pack [6曲]
+
+『Arcaea Next Stage - Crossing HARDCORE TANO*C』
+
+Original Pack
+
+繋がり、交わり、そしてまだ見ぬ舞台へと──。 アーティスト6組12名が結集、イベント記念の合作6曲を収録！ 『光&対立 (Debut)』と共に、遥かなる高み、新たなるステージへ！
+
+実装 : ver.6.10.8 (25/11/22) 一般解禁 : ver.6.11.2 (25/12/24) 有料コンテンツ : 500 メモリー ※「 [Arcaea Next Stage](https://wikiwiki.jp/arcaea/%E3%81%93%E3%81%BC%E3%82%8C%E8%A9%B1#livemusic)」チケット購入特典のシリアルコードの入力でも解禁 エーテルの雫 : 5 個 パートナー : [Debut 光&対立](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page4%29#debut)※パートナー解禁方法は各リンク先を参照。
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [INFINITE DIMENSION](https://wikiwiki.jp/arcaea/INFINITE%20DIMENSION) | DJ Noriken × P*Light | 6.10.8(25/11/22) | 2 | 6 | 8 | 10 |
+| [INCARNATOR₀₀](https://wikiwiki.jp/arcaea/INCARNATOR%E2%82%80%E2%82%80) | Silentroom × N² | 6.10.8(25/11/22) | 3 | 6 | 8+ | 10 |
+| [zephyrlasting](https://wikiwiki.jp/arcaea/zephyrlasting) | s-don × nitro (lowiro) | 6.10.8(25/11/22) | 3 | 7 | 9 | 10 |
+| [MARENYX](https://wikiwiki.jp/arcaea/MARENYX) | BlackY × Aoi | 6.10.8(25/11/22) | 4 | 7+ | 9 | 10+ |
+| [Code: Oblivion](https://wikiwiki.jp/arcaea/Code%EF%BC%9A%20Oblivion) | Kobaryo × Gram | 6.10.8(25/11/22) | 5 | 8 | 9+ | 10+ |
+| [ΛZΛLEΛ](https://wikiwiki.jp/arcaea/%CE%9BZ%CE%9BLE%CE%9B) | ak+q × onoken | 6.10.8(25/11/22) | 4 | 7 | 9 | 10 |
+
+## "DJMAX Collaboration" Pack [10曲 (5 + 5)]
+
+『DJMAX』©NEOWIZ
+
+Collaboration Pack
+
+DJMAXシリーズより、時代を超える不朽の名作を5つ収録！最大限の敬意を、いまのあなたへ。 光＆エル・クリアと共に、FEVERの渦を駆け昇ろう！
+
+実装 : ver.6.5.0 (25/05/22) 有料コンテンツ : 500 メモリー エーテルの雫 : 5 個 パートナー : [光&エル・クリア](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page4%29#hikarielclear)/ [対立&エル・フェイル](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%28Page3%29#tairitsuelfail)※パートナー解禁方法は各リンク先を参照。
+
+"Collaboration Chapter 2" Pack Append ▼
+
+DJMAXより再び、君の心が試される5曲が到来。 『奈実 (宵闇)＆スイ』と共に、打ち寄せる波を乗りこなせ。FEVERの熱狂は、まだまだ終わらない！
+
+実装 : ver.6.6.0 (25/06/26) 有料コンテンツ : 500 メモリー エーテルの雫 : 5 個 パートナー : [宵闇 奈実&スイ](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page4%29#namisui)/ [対立&エル・フェイル](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%28Page3%29#tairitsuelfail)※パートナー解禁方法は各リンク先を参照。
+
+### 隠し要素
+
+メインパックおよびPack Append「Collaboration Chapter 2」を購入すると、 [エル・フェイル](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%28Page3%29#tairitsuelfail)が描かれたパック画像を入手できます。 パック右上に覚醒切り替えと同様の矢印アイコンが付き、これをタップすることでパック画像を切り替えることが可能となります。 期間限定パートナー「 [対立&エル・フェイル](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%28Page3%29#tairitsuelfail)」の解禁は必要ありません。
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [Ladymade Star](https://wikiwiki.jp/arcaea/Ladymade%20Star) | ESTi | 6.5.0(25/05/22) | 2 | 6 | 8 | 9 |
+| [End of The Moonlight](https://wikiwiki.jp/arcaea/End%20of%20The%20Moonlight) | Forte Escape | 6.5.0(25/05/22) | 3 | 5 | 9 |
+| [U.A.D](https://wikiwiki.jp/arcaea/U.A.D) | HAYAKO | 6.5.0(25/05/22) | 3 | 6 | 8+ | 9+ |
+| [OBLIVION](https://wikiwiki.jp/arcaea/OBLIVION) | ESTi | 6.5.0(25/05/22) | 4 | 7 | 9 | 10 |
+| [Nightmare](https://wikiwiki.jp/arcaea/Nightmare) | M2U | 6.5.0(25/05/22) | 4 | 7 | 9+ | 10+ |
+| "Collaboration Chapter 2" Pack Append ▼ |
+| [I want You](https://wikiwiki.jp/arcaea/I%20want%20You) | Lin-G | 6.6.0(25/06/26) | 3 | 5 | 8 | 9 |
+| [Syriana](https://wikiwiki.jp/arcaea/Syriana) | BEXTER | 6.6.0(25/06/26) | 4 | 7 | 9+ |
+| [Liar](https://wikiwiki.jp/arcaea/Liar) | zts | 6.6.0(25/06/26) | 4 | 7+ | 10 |
+| [BlythE](https://wikiwiki.jp/arcaea/BlythE) | M2U | 6.6.0(25/06/26) | 3 | 7 | 9 | 10 |
+| [We're All Gonna Die](https://wikiwiki.jp/arcaea/We%27re%20All%20Gonna%20Die) | Paul Bazooka | 6.6.0(25/06/26) | 5 | 8 | 10 | 10+ |
+
+## "UNDERTALE Collaboration" Pack [5曲]
+
+『UNDERTALE®』by Toby Fox
+
+Collaboration Pack
+
+むかしむかし、とあるいせきに落ちた、ニンゲンとモンスターの物語。 タマシイと共鳴するような、5つの楽曲がUNDERTALEより登場！ たたかえ、こうどうせよ、みなぎるケツイをその胸に。 購入期間限定パック (2025/03/09 ～ 2027/03/09) 購入可能期間終了まで 《期間終了》 実装 : ver.6.3.0 (25/03/09) 有料コンテンツ : 500 メモリー エーテルの雫 : 5 個
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [心の痛み](https://wikiwiki.jp/arcaea/%E5%BF%83%E3%81%AE%E7%97%9B%E3%81%BF) | Toby Fox | 6.3.0(25/03/09) | 1 | 4 | 7 | 8+ |
+| [華麗なる死闘](https://wikiwiki.jp/arcaea/%E8%8F%AF%E9%BA%97%E3%81%AA%E3%82%8B%E6%AD%BB%E9%97%98) | Toby Fox | 6.3.0(25/03/09) | 2 | 5 | 7+ | 9 |
+| [最高の悪夢](https://wikiwiki.jp/arcaea/%E6%9C%80%E9%AB%98%E3%81%AE%E6%82%AA%E5%A4%A2) | Toby Fox | 6.3.0(25/03/09) | 3 | 6 | 8+ | 10 |
+| [これでホントにサヨナラ](https://wikiwiki.jp/arcaea/%E3%81%93%E3%82%8C%E3%81%A7%E3%83%9B%E3%83%B3%E3%83%88%E3%81%AB%E3%82%B5%E3%83%A8%E3%83%8A%E3%83%A9) | Toby Fox | 6.3.0(25/03/09) | 2 | 6 | 8 | 9+ |
+| [MEGALOVANIA](https://wikiwiki.jp/arcaea/MEGALOVANIA) | Toby Fox | 6.3.0(25/03/09) | 4 | 7 | 9 | 10 |
+
+## "Rotaeno Collaboration" Pack [5曲]
+
+『Rotaeno』©Dream Engine Games
+
+Collaboration Pack
+
+ルナとイロといっしょにアクアを旅しよう！さあ、蒼穹の中、反転した世界へ――。 Rotaenoの個性あふれる楽曲4つに加え、オリジナル新曲1つのほか、新たなコラボストーリーも登場！ 実装 : ver.5.10.0 (24/08/29) 有料コンテンツ : 500 メモリー エーテルの雫 : 5 個 パートナー : [ルナ&イロ](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page4%29#lunailot)/ [エト&ホッパ](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%28Page2%29#etohoppe)※パートナー解禁方法は各リンク先を参照。
+
+### 隠し要素
+
+Rotaenoの [コラボストーリー](https://wikiwiki.jp/arcaea/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC/Archive%20Story/Rotaeno)をすべて読了すると、 [エト&ホッパ](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%28Page2%29#etohoppe)が描かれたパック画像を入手できます。 パック右上に覚醒切り替えと同様の矢印アイコンが付き、これをタップすることでパック画像を切り替えることが可能となります。
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [Waltz for Lorelei](https://wikiwiki.jp/arcaea/Waltz%20for%20Lorelei) | Sobrem & 庭師 | 5.10.0(24/08/29) | 2 | 5 | 8+ | 9+ |
+| [Dual Doom Deathmatch](https://wikiwiki.jp/arcaea/Dual%20Doom%20Deathmatch) | Kobaryo vs HyuN | 5.10.0(24/08/29) | 3 | 6 | 8+ | 10 |
+| [Inverted World](https://wikiwiki.jp/arcaea/Inverted%20World) | ARForest | 5.10.0(24/08/29) | 3 | 7 | 9 | 10+ |
+| [MVURBD](https://wikiwiki.jp/arcaea/MVURBD) | ETIA. | 5.10.0(24/08/29) | 4 | 7+ | 10 |
+| [Vulcānus](https://wikiwiki.jp/arcaea/Vulc%C4%81nus) | Team Grimoire vs Aoi | 5.10.0(24/08/29) | 5 | 8 | 10+ |
+
+## "Cytus II Collaboration" Pack [10曲 (5 + 5)]
+
+『CYTUS II®』by Rayark Inc.
+
+Collaboration Pack
+
+"――さあ、立って。成すべきことがまだあるでしょう？" Arcaea × Cytus II、ついに邂逅する2つの世界。Cytus IIから名曲4つと、描き下ろし楽曲1つが収録。 IlithとIvyと共に、渦巻く混沌に切り込もう！ 実装 : ver.4.5.0 (23/06/28) 有料コンテンツ : 500 メモリー エーテルの雫 : 5 個 パートナー : [Ilith & Ivy](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page4%29#ilithivy)※パートナー解禁方法は各リンク先を参照。
+
+"Collaboration Chapter 2" Pack Append ▼
+
+「Ivy......」降り注ぐ純白の光のなか、目覚めたVanessaと、Hikariは出逢うーー Cytus IIコラボパック、第2弾。漸く叶う現実をいま、その手に。強大な4曲と堕ちた過去、かの1曲がアナタを待つ。 実装 : ver.4.6.0 (23/07/19) 有料コンテンツ : 500 メモリー エーテルの雫 : 5 個 パートナー : [Hikari & Vanessa](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page4%29#hikarivanessa)※パートナー解禁方法は各リンク先を参照。
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [Bullet Waiting for Me(James Landino remix)](https://wikiwiki.jp/arcaea/Bullet%20Waiting%20for%20Me%20%28James%20Landino%20remix%29) | Nikki Simmons | 4.5.0(23/06/28) | 2 | 4 | 8 |
+| [Devillic Sphere](https://wikiwiki.jp/arcaea/Devillic%20Sphere) | 3R2 | 4.5.0(23/06/28) | 4 | 7+ | 9+ |
+| [Lucid Traveler](https://wikiwiki.jp/arcaea/Lucid%20Traveler) | Akira Complex vs 3R2 | 4.5.0(23/06/28) | 4 | 8+ | 10 |
+| [CHAOS](https://wikiwiki.jp/arcaea/CHAOS) | Æsir | 4.5.0(23/06/28) | 5 | 7 | 10+ |
+| [Used to be](https://wikiwiki.jp/arcaea/Used%20to%20be) | KIVΛ | 4.5.0(23/06/28) | 4 | 6 | 9 |
+| "Collaboration Chapter 2" Pack Append ▼ |
+| [syūten](https://wikiwiki.jp/arcaea/sy%C5%ABten) | Apo11o"COLLAPSAR"programft. 大瀬良あい | 4.6.0(23/07/19) | 2 | 5 | 8 |
+| [DRG](https://wikiwiki.jp/arcaea/DRG) | onoken | 4.6.0(23/07/19) | 3 | 7 | 9 |
+| [99 Glooms](https://wikiwiki.jp/arcaea/99%20Glooms) | Sta | 4.6.0(23/07/19) | 4 | 7+ | 10 |
+| [͟͝͞Ⅱ́̕](https://wikiwiki.jp/arcaea/%E2%85%A1) | Cytus | 4.6.0(23/07/19) | 5 | 8+ | 10+ |
+| [Magnolia](https://wikiwiki.jp/arcaea/Magnolia) | M2U Vocal by Guriri | 4.6.0(23/07/19) | 4 | 7+ | 10 |
+
+## "Muse Dash Collaboration" Pack [4曲]
+
+『Muse Dash』by PeroPeroGames
+
+Collaboration Pack
+
+Ready? GO!! イキイキとした三曲、そして新パートナー『マリヤ』がランアクションとリズムゲーム『Muse Dash』から参戦！ また本コラボを記念した、完全新曲も一曲収録！ 実装 : ver.3.11.0 (21/12/24) 有料コンテンツ : 400 メモリー エーテルの雫 : 4 個 パートナー : [マリヤ](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page4%29#marija)※パートナー解禁方法は各リンク先を参照。
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [Lights of Muse](https://wikiwiki.jp/arcaea/Lights%20of%20Muse) | Ayatsugu_Otowa | 3.11.0(21/12/24) | 2 | 5 | 8+ |
+| [Final Step!](https://wikiwiki.jp/arcaea/Final%20Step%21) | Lime | 3.11.0(21/12/24) | 3 | 6 | 9 |
+| [秋の陽炎](https://wikiwiki.jp/arcaea/%E7%A7%8B%E3%81%AE%E9%99%BD%E7%82%8E) | karatoPαnchii feat. はるの | 3.11.0(21/12/24) | 3 | 7 | 9+ |
+| [Medusa](https://wikiwiki.jp/arcaea/Medusa) | HiTECH NINJA | 3.11.0(21/12/24) | 4 | 7 | 10 |
+
+## "WACCA Collaboration" Pack [10曲 (5 + 5)]
+
+『WACCA』©Marvelous Inc. / Supported by HARDCORE TANO*C
+
+Collaboration Pack
+
+新パートナー『サヤ & エリザベス』と一緒に、待望のWACCAコラボへダイブ！！ WACCAでおなじみの楽曲に、リミックス曲を加えた5曲構成！さあ、つなげよう、広げよう！ 実装 : ver.3.8.0 (21/08/10) 有料コンテンツ : 500 メモリー エーテルの雫 : 5 個 パートナー : [サヤ&エリザベス](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page4%29#sayaelizabeth)/ [リリィ](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%28Page2%29#lily)※パートナー解禁方法は各リンク先を参照。
+
+"Collaboration Chapter 2" Pack Append ▼
+
+再び交わる2つの世界、再度両度の巡り合い。新章加わるWACCAコラボにて、目が離せない新たな5曲を体感せよ！ そして、内より響くとある声。"この退屈な世界に、楽しみを加えよう！" 実装 : ver.5.2.0 (23/11/30) 有料コンテンツ : 500 メモリー エーテルの雫 : 5 個 パートナー : [ルーン](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%28Page2%29#luin)※パートナー解禁方法は各リンク先を参照。
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [Quon](https://wikiwiki.jp/arcaea/Quon%E3%80%90WACCA%E3%80%91) | DJ Noriken | 3.8.0(21/08/10) | 2 | 6 | 8+ | 10 |
+| [with U](https://wikiwiki.jp/arcaea/with%20U) | t+pazolite & Massive New Krewfeat. リリィ(CV:青木志貴) | 3.8.0(21/08/10) | 2 | 6 | 9 |
+| [Let you DIVE! (nitro rmx)](https://wikiwiki.jp/arcaea/Let%20you%20DIVE%21%20%28nitro%20rmx%29) | nitro | 3.8.0(21/08/10) | 3 | 6 | 9 |
+| [Mazy Metroplex](https://wikiwiki.jp/arcaea/Mazy%20Metroplex) | aran | 3.8.0(21/08/10) | 3 | 7+ | 9+ |
+| [GENOCIDER](https://wikiwiki.jp/arcaea/GENOCIDER) | DJ Myosuke | 3.8.0(21/08/10) | 4 | 8+ | 10+ |
+| "Collaboration Chapter 2" Pack Append ▼ |
+| [Stratoliner](https://wikiwiki.jp/arcaea/Stratoliner) | C-Show | 5.2.0(23/11/30) | 3 | 6 | 9 |
+| [Ouvertüre](https://wikiwiki.jp/arcaea/Ouvert%C3%BCre) | USAO & DJ Genkifeat. ルーン(CV:河瀬茉希) | 5.2.0(23/11/30) | 2 | 7 | 9+ |
+| [XTREME](https://wikiwiki.jp/arcaea/XTREME) | USAO | 5.2.0(23/11/30) | 4 | 7+ | 10 |
+| [eden](https://wikiwiki.jp/arcaea/eden) | "漆黒"の堕天使《Gram》†Versus†"聖刻"の熾天使《Gram》 | 5.2.0(23/11/30) | 4 | 8 | 10 |
+| [Meta-Mysteria](https://wikiwiki.jp/arcaea/Meta-Mysteria) | DJ Noriken | 5.2.0(23/11/30) | 5 | 7+ | 10+ |
+
+## "maimai Collaboration" Pack [12曲 (4 + 4 + 4)]
+
+『maimai』©SEGA
+
+Collaboration Pack
+
+さあ、着水に備えろ！ 人気リズムゲーム『maimai』から、Arcaeaに熱狂が届く！乗りこなせ、maimaiらしい4曲！呑まれるな、この熱気に！ 実装 : ver.3.4.1 (21/01/08) 有料コンテンツ : 400 メモリー エーテルの雫 : 4 個
+
+"Collaboration Chapter 2" Pack Append ▼
+
+接近中！接近中！新たな波がやってくる！ 爽快感あふれる4曲が、maimai でらっくすから登場だーっ！そして仲良し二人のパートナー、『みるく』と『しゃま』も登場だーっ！！ 実装 : ver.4.3.0 (23/03/02) 有料コンテンツ : 400 メモリー エーテルの雫 : 4 個 パートナー : [しゃま（ゆにばーす）](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page4%29#shama)/ [みるく（ゆにばーす）](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page4%29#milk)/ [紫黒](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%28Page2%29#shikoku)/ [百合咲ミカ](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%28Page2%29#yurisakimika)※パートナー解禁方法は各リンク先を参照。
+
+"Collaboration Chapter 3" Pack Append ▼
+
+めくるめくキラめきの瞬間、今再び！ 素敵な願いを携えて、ソルトもいっしょに。 maimai でらっくすの世界より、 鮮やかに輝く楽曲が4つ、燦然と。 実装 : ver.6.2.0 (25/01/23) 有料コンテンツ : 400 メモリー エーテルの雫 : 4 個 パートナー : [ソルト](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page4%29#salt)/ [アシッド](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%28Page3%29#acid)※パートナー解禁方法は各リンク先を参照。
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [四月の雨](https://wikiwiki.jp/arcaea/%E5%9B%9B%E6%9C%88%E3%81%AE%E9%9B%A8) | cubesato | 3.4.1(21/01/08) | 2 | 5 | 8 |
+| [7thSense](https://wikiwiki.jp/arcaea/7thSense) | 削除 | 3.4.1(21/01/08) | 3 | 7+ | 9+ |
+| [Oshama Scramble!](https://wikiwiki.jp/arcaea/Oshama%20Scramble%21) | t+pazolite | 3.4.1(21/01/08) | 3 | 6 | 10 |
+| [AMAZING MIGHTYYYY!!!!](https://wikiwiki.jp/arcaea/AMAZING%20MIGHTYYYY%21%21%21%21) | WAiKURO | 3.4.1(21/01/08) | 4 | 7+ | 10+ |
+| "Collaboration Chapter 2" Pack Append ▼ |
+| [CYCLES](https://wikiwiki.jp/arcaea/CYCLES) | Masayoshi Minoshima feat. 綾倉盟 | 4.3.0(23/03/02) | 2 | 5 | 8+ |
+| [MAXRAGE](https://wikiwiki.jp/arcaea/MAXRAGE) | EBIMAYO | 4.3.0(23/03/02) | 3 | 6 | 9+ |
+| [[X]](https://wikiwiki.jp/arcaea/%EF%BC%BBX%EF%BC%BD) | Blacklolita | 4.3.0(23/03/02) | 4 | 7+ | 10 |
+| [TEmPTaTiON](https://wikiwiki.jp/arcaea/TEmPTaTiON) | かねこちはる | 4.3.0(23/03/02) | 5 | 8 | 10+ |
+| "Collaboration Chapter 3" Pack Append ▼ |
+| [BREaK! BREaK! BREaK!](https://wikiwiki.jp/arcaea/BREaK%21%20BREaK%21%20BREaK%21) | HiTECH NINJA vs Cranky | 6.2.0(25/01/23) | 3 | 6 | 8+ | 10 |
+| [Straight into the lights](https://wikiwiki.jp/arcaea/Straight%20into%20the%20lights) | Cosmograph | 6.2.0(25/01/23) | 4 | 7 | 9 | 10 |
+| [ViRTUS](https://wikiwiki.jp/arcaea/ViRTUS) | Hiro | 6.2.0(25/01/23) | 5 | 8 | 9+ | 10+ |
+| [ヨミビトシラズ](https://wikiwiki.jp/arcaea/%E3%83%A8%E3%83%9F%E3%83%93%E3%83%88%E3%82%B7%E3%83%A9%E3%82%BA) | Limonène (サノカモメ+月島春果) | 6.2.0(25/01/23) | 4 | 8 | 9+ |
+
+## "O.N.G.E.K.I. Collaboration" Pack [13曲 (4 + 5 + 4)]
+
+『O.N.G.E.K.I.』©SEGA
+
+Collaboration Pack
+
+Arcaeaへと訪れる、未だ見ぬ闘争ーー。 オンゲキより、衝撃の4曲が到来。ルナと美亜のコンビと一緒に、Let's SHOOT！ 実装 : ver.3.4.0 (20/12/17) 有料コンテンツ : 400 メモリー エーテルの雫 : 4 個 パートナー : [ルナ & 美亜](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page4%29#lunamia)※パートナー解禁方法は各リンク先を参照。
+
+"Collaboration Chapter 2" Pack Append ▼
+
+そして再び訪れる、さらなる試練。 今登場するPack Append。満を持して襲来する5曲の試練。さらにパートナー、『咲姫』が登場！ 実装 : ver.4.1.0 (22/10/04) 有料コンテンツ : 500 メモリー エーテルの雫 : 5 個 パートナー : [咲姫](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page4%29#saki)/ [セツナ](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%28Page2%29#setsuna)※パートナー解禁方法は各リンク先を参照。
+
+"Collaboration Chapter 3" Pack Append ▼
+
+オンゲキより魅惑の4曲が襲来！記憶に刻め、そして畏れよ――かの名だたる双璧を。 ちょっと背伸びしがちでも頼れるパートナー『つむぎ』も登場！ 実装 : ver.6.0.0 (24/11/21) 有料コンテンツ : 400 メモリー エーテルの雫 : 4 個 パートナー : [つむぎ](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page4%29#tsumugi)/ [千夏](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%28Page2%29#chinatsu)※パートナー解禁方法は各リンク先を参照。
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [Lazy Addiction](https://wikiwiki.jp/arcaea/Lazy%20Addiction) | sky_delta | 3.4.0(20/12/17) | 2 | 6 | 9 |
+| [Dazzle hop](https://wikiwiki.jp/arcaea/Dazzle%20hop) | Sampling Masters MEGA | 3.4.0(20/12/17) | 3 | 6 | 9+ |
+| [Viyella's Tears](https://wikiwiki.jp/arcaea/Viyella%27s%20Tears) | Laur | 3.4.0(20/12/17) | 4 | 7+ | 10 |
+| [ω4](https://wikiwiki.jp/arcaea/%CF%894) | 穴山大輔 VS 光吉猛修 VS Kai | 3.4.0(20/12/17) | 3 | 7+ | 10+ |
+| "Collaboration Chapter 2" Pack Append ▼ |
+| [心](https://wikiwiki.jp/arcaea/%E5%BF%83) | 削除 (Violin : Katali) | 4.1.0(22/10/04) | 1 | 5 | 9 |
+| [Ai Drew](https://wikiwiki.jp/arcaea/Ai%20Drew) | Feryquitous | 4.1.0(22/10/04) | 3 | 6 | 9+ |
+| [FLUFFY FLASH](https://wikiwiki.jp/arcaea/FLUFFY%20FLASH) | Kobaryo | 4.1.0(22/10/04) | 3 | 6 | 9+ |
+| [Good bye, Merry-Go-Round.](https://wikiwiki.jp/arcaea/Good%20bye%2C%20Merry-Go-Round.) | Yooh | 4.1.0(22/10/04) | 4 | 7 | 10 |
+| [LAMIA](https://wikiwiki.jp/arcaea/LAMIA) | BlackY | 4.1.0(22/10/04) | 5 | 8 | 11 |
+| "Collaboration Chapter 3" Pack Append ▼ |
+| [LiftOff](https://wikiwiki.jp/arcaea/LiftOff) | MAYA AKAI | 6.0.0(24/11/21) | 3 | 6 | 8 | 9+ |
+| [SUPER AMBULANCE](https://wikiwiki.jp/arcaea/SUPER%20AMBULANCE) | AJURIKA | 6.0.0(24/11/21) | 4 | 7 | 10 |
+| [Don't Fight The Music](https://wikiwiki.jp/arcaea/Don%27t%20Fight%20The%20Music) | 黒魔 | 6.0.0(24/11/21) | 4 | 7+ | 9 | 10+ |
+| [And Revive The Melody](https://wikiwiki.jp/arcaea/And%20Revive%20The%20Melody) | 黒魔 | 6.0.0(24/11/21) | 5 | 8 | 10+ |
+
+## "CHUNITHM Collaboration" Pack [16曲 (3 + 3 + 5 + 5)]
+
+『CHUNITHM』©SEGA
+
+Collaboration Pack
+
+地平線の向こうはアーケードから、3つの強力な楽曲がやってくるーー。 対立とチュウニペンギンと共に、難敵たちに挑戦しよう！ 実装 : ver.2.1.0 (19/05/23) 有料コンテンツ : 300 メモリー エーテルの雫 : 3 個 パートナー : [Grievous Lady 対立 & チュウニペンギン](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page4%29#tairitsuchuni)/ [チュウニペンギン](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%28Page2%29#penguin)/ [はるな](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%28Page2%29#haruna)/ [ノノ](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%28Page2%29#nono)/ [MTA-XXX パンドラネメシス](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%28Page2%29#mta)/ [MDA-21 レグルス](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%28Page2%29#mda)/ [Fracture & MIR-203 光＆セレネ・シェリル](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page4%29#hikariselene)※パートナー解禁方法は各リンク先を参照。
+
+"Collaboration Chapter 2" Pack Append ▼
+
+新しく、容赦などない三曲がCHUNITHMより襲来！ また一度、CHUNITHMが帰ってきた。そして此度は、神さえ慈悲を棄てるだろう。 実装 : ver.3.5.0 (21/01/21) 有料コンテンツ : 300 メモリー エーテルの雫 : 3 個 パートナー : [アレウス](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%28Page2%29#areus)/ [セーレ](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%28Page2%29#seele)/ [イゼヴェル](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%28Page2%29#isabelle)/ [Fracture & MIR-203 光＆セレネ・シェリル](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page4%29#hikariselene)※パートナー解禁方法は各リンク先を参照。
+
+"Collaboration Chapter 3" Pack Append ▼
+
+悲喜交交のCHUNITHMコラボ、あらたなチャプターが登場！ 正義の心と、恐れぬ心。心躍る5つの曲があなたを待つ。 実装 : ver.4.4.0 (23/03/23) 有料コンテンツ : 500 メモリー エーテルの雫 : 5 個 パートナー : [ミスラ・テルセーラ](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%28Page2%29#mithratercera)/ [不来方とあ](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%28Page2%29#toakozukata)/ [Fracture & MIR-203 光＆セレネ・シェリル](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page4%29#hikariselene)※パートナー解禁方法は各リンク先を参照。
+
+"Collaboration Chapter 4" Pack Append ▼
+
+4回目となるCHUNITHMコラボでは、4つの楽曲が新たにステージへ！ さあ、祭典へ。果てない試練を魂で超えて行け。 実装 : ver.6.1.0 (24/12/19) 有料コンテンツ : 400 メモリー エーテルの雫 : 4 個 パートナー : [ナイ](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%28Page2%29#nai)/ [MIR-203 セレネ・シェリル](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%28Page2%29#selenesheryl)/ [Fracture & MIR-203 光＆セレネ・シェリル](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page4%29#hikariselene)※パートナー解禁方法は各リンク先を参照。
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [Garakuta Doll Play](https://wikiwiki.jp/arcaea/Garakuta%20Doll%20Play) | t+pazolite | 2.1.0(19/05/23) | 4 | 6 | 10 |
+| [怒槌](https://wikiwiki.jp/arcaea/%E6%80%92%E6%A7%8C) | 光吉猛修 | 2.1.0(19/05/23) | 3 | 7 | 10 |
+| [World Vanquisher](https://wikiwiki.jp/arcaea/World%20Vanquisher) | void (Mournfinale) | 2.1.0(19/05/23) | 2 | 5 | 10+ |
+| "Collaboration Chapter 2" Pack Append ▼ |
+| [Climax](https://wikiwiki.jp/arcaea/Climax) | USAO | 3.5.0(21/01/21) | 4 | 7+ | 10 |
+| [Last Celebration](https://wikiwiki.jp/arcaea/Last%20Celebration) | Laur vs CK | 3.5.0(21/01/21) | 3 | 6 | 10 |
+| [業 -善なる神とこの世の悪について-](https://wikiwiki.jp/arcaea/%E6%A5%AD%20-%E5%96%84%E3%81%AA%E3%82%8B%E7%A5%9E%E3%81%A8%E3%81%93%E3%81%AE%E4%B8%96%E3%81%AE%E6%82%AA%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-) | 光吉猛修 VS 穴山大輔 | 3.5.0(21/01/21) | 5 | 8 | 10+ |
+| "Collaboration Chapter 3" Pack Append ▼ |
+| [コスモポップファンクラブ](https://wikiwiki.jp/arcaea/%E3%82%B3%E3%82%B9%E3%83%A2%E3%83%9D%E3%83%83%E3%83%97%E3%83%95%E3%82%A1%E3%83%B3%E3%82%AF%E3%83%A9%E3%83%96) | ナユタン星人 | 4.4.0(23/03/23) | 2 | 6 | 8+ |
+| [IMPACT](https://wikiwiki.jp/arcaea/IMPACT) | USAO feat. 光吉猛修 | 4.4.0(23/03/23) | 3 | 7+ | 9 | 10 |
+| [Genesis](https://wikiwiki.jp/arcaea/Genesis%E3%80%90CHUNITHM%E3%80%91) | Morrigan feat.Lily | 4.4.0(23/03/23) | 4 | 7 | 9+ |
+| [Trrricksters!!](https://wikiwiki.jp/arcaea/Trrricksters%21%21) | s-don vs. 翡乃イスカ | 4.4.0(23/03/23) | 4 | 7 | 10 |
+| [蜘蛛の糸](https://wikiwiki.jp/arcaea/%E8%9C%98%E8%9B%9B%E3%81%AE%E7%B3%B8) | きくお×cosMo＠暴走P feat.影縫英 | 4.4.0(23/03/23) | 4 | 7+ | 10+ |
+| "Collaboration Chapter 4" Pack Append ▼ |
+| [Ignition](https://wikiwiki.jp/arcaea/Ignition) | パソコン音楽クラブ | 6.1.0(24/12/19) | 3 | 6 | 9+ |
+| [BlazinG AIR](https://wikiwiki.jp/arcaea/BlazinG%20AIR) | kanone | 6.1.0(24/12/19) | 3 | 6 | 8+ | 10 |
+| [8-EM](https://wikiwiki.jp/arcaea/8-EM) | Sampling Masters AYA | 6.1.0(24/12/19) | 4 | 7+ | 9 | 10 |
+| [DA'AT -The First Seeker of Souls-](https://wikiwiki.jp/arcaea/DA%27AT%20-The%20First%20Seeker%20of%20Souls-) | 水野健治 VS 大国奏音 | 6.1.0(24/12/19) | 5 | 8 | 10+ |
+| [Aether Crest: Astral](https://wikiwiki.jp/arcaea/Aether%20Crest%EF%BC%9A%20Astral) | void (Mournfinale) × 水野健治 | 6.2.6(25/02/26) | 6 | 8+ | 10 | 11 |
+
+## "Groove Coaster Collaboration" Pack [9曲 (6 + 3)]
+
+『Groove Coaster』©TAITO CORP.
+
+Collaboration Pack
+
+グルーヴコースターとArcaeaのコラボレーションにて、6つの新曲が君を待つ！ セイネとヒカリと共に、星降る夜空へと繰り出そう！ 実装 : ver.1.9.0 (19/01/09) 有料コンテンツ : 500 メモリー エーテルの雫 : 5 個 パートナー : [光 & セイネ](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page4%29#seinehikari)/ [ユメ](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%28Page2%29#yume)※パートナー解禁方法は各リンク先を参照。
+
+"Collaboration Chapter 2" Pack Append ▼
+
+音楽は止まない、グルーヴだって止まらない！ グルーヴコースターより、追加の3曲、Pack Appendで登場！ 準備はOK？さあ、グルーヴを乗りこなせ！ 実装 : ver.5.8.0 (24/06/27) 有料コンテンツ : 300 メモリー エーテルの雫 : 3 個
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [MERLIN](https://wikiwiki.jp/arcaea/MERLIN) | REDALiCE | 1.9.0(19/01/09) | 3 | 5 | 8+ | 9 |
+| [DX超性能フルメタル少女](https://wikiwiki.jp/arcaea/DX%E8%B6%85%E6%80%A7%E8%83%BD%E3%83%95%E3%83%AB%E3%83%A1%E3%82%BF%E3%83%AB%E5%B0%91%E5%A5%B3) | IOSYS TRAX(uno with.ちよこ) | 1.9.0(19/01/09) | 3 | 6 | 9+ |
+| [OMAKENO Stroke](https://wikiwiki.jp/arcaea/OMAKENO%20Stroke) | t+pazolite | 1.9.0(19/01/09) | 3 | 6 | 9 | 10 |
+| [Scarlet Lance](https://wikiwiki.jp/arcaea/Scarlet%20Lance) | MASAKI (ZUNTATA) | 1.9.0(19/01/09) | 4 | 7 | 10 |
+| [ouroboros-twin stroke of the end-](https://wikiwiki.jp/arcaea/ouroboros%20-twin%20stroke%20of%20the%20end-) | Cranky VS MASAKI | 1.9.0(19/01/09) | 4 | 7 | 10+ |
+| [Got hive of Ra](https://wikiwiki.jp/arcaea/Got%20hive%20of%20Ra) | E.G.G. | 3.2.0(20/09/16) | 3 | 6 | 9+ |
+| "Collaboration Chapter 2" Pack Append ▼ |
+| [Sign of "10.5km"](https://wikiwiki.jp/arcaea/Sign%20of%20%27%2710.5km%27%27) | 渡部恭久 | 5.8.0(24/06/27) | 3 | 6 | 9 |
+| [10pt8ion](https://wikiwiki.jp/arcaea/10pt8ion) | Lite Show Magic | 5.8.0(24/06/27) | 4 | 7+ | 9+ | 10 |
+| [Black MInD](https://wikiwiki.jp/arcaea/Black%20MInD) | COSIO | 5.8.0(24/06/27) | 5 | 8 | 10+ |
+
+## "Tone Sphere Collaboration" Pack [5曲]
+
+『Tone Sphere』by Bit192 Labs
+
+Collaboration Pack
+
+ArcaeaとSta氏の音楽ゲーム「Tone Sphere」とのコラボレーションで、ぶつかり合う2つの世界を体験しよう。 トリンに導かれ、対立と一緒に5つの名曲を巡る旅へと出発しよう！ 実装 : ver.1.8.0 (18/10/07) 有料コンテンツ : 500 メモリー エーテルの雫 : 5 個 パートナー : [対立 & トリン](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page4%29#tairitsutrin)※パートナー解禁方法は各リンク先を参照。
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [光](https://wikiwiki.jp/arcaea/%E5%85%89) | THB | 1.8.0(18/10/07) | 2 | 6 | 8 |
+| [Hall of Mirrors](https://wikiwiki.jp/arcaea/Hall%20of%20Mirrors) | Sta | 1.8.0(18/10/07) | 3 | 5 | 8 |
+| [STAGER (ALL STAGE CLEAR)](https://wikiwiki.jp/arcaea/STAGER%20%28ALL%20STAGE%20CLEAR%29) | Ras | 1.8.0(18/10/07) | 3 | 6 | 9 |
+| [Linear Accelerator](https://wikiwiki.jp/arcaea/Linear%20Accelerator) | THE SHAFT | 1.8.0(18/10/07) | 2 | 6 | 9+ |
+| [Tiferet](https://wikiwiki.jp/arcaea/Tiferet) | xi + Sta | 1.8.0(18/10/07) | 4 | 7+ | 10 |
+
+## "Lanota Collaboration" Pack [8曲 (5 + 3)]
+
+『Lanota』by Noxy Games
+
+Collaboration Pack
+
+無常なる時の流れが、Arcaeaの世界と、情緒的音楽ゲーム【Lanota】を絡み合わせるーー。 ヒカリやLanotaのフィシカと共に、新たなコラボレーション楽曲【Quon】の他、Lanotaからの個性豊かな楽曲を巡りましょう。 実装 : ver.1.5.5 (18/02/01) 有料コンテンツ : 500 メモリー エーテルの雫 : 5 個 パートナー : [光 & フィシカ](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page4%29#hikarifisica)※パートナー解禁方法は各リンク先を参照。
+
+"Collaboration Chapter 2" Pack Append ▼
+
+それは深く、静寂の世界にて、旧き機械、その残響がこだまする。 LanotaのコラボパックにPack Appendが登場。活力と音を宿す、そんな三曲が新たに追加。さあ、空へと旅立とう！ 実装 : ver.3.12.8 (22/04/28) 有料コンテンツ : 300 メモリー エーテルの雫 : 3 個
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [Dream goes on](https://wikiwiki.jp/arcaea/Dream%20goes%20on) | Tiny Minim | 1.5.5(18/02/01) | 1 | 5 | 7+ |
+| [Journey](https://wikiwiki.jp/arcaea/Journey) | ARForest | 1.5.5(18/02/01) | 3 | 6 | 9 |
+| [Specta](https://wikiwiki.jp/arcaea/Specta) | Junk | 1.5.5(18/02/01) | 3 | 6 | 9 |
+| [Quon](https://wikiwiki.jp/arcaea/Quon) | Feryquitous | 1.5.5(18/02/01) | 4 | 6 | 9 |
+| [cyanine](https://wikiwiki.jp/arcaea/cyanine) | jioyi | 1.5.5(18/02/01) | 4 | 7+ | 10 |
+| "Collaboration Chapter 2" Pack Append ▼ |
+| [Prism](https://wikiwiki.jp/arcaea/Prism) | bermei.inazawa ft. Chata | 3.12.8(22/04/28) | 2 | 5 | 8 |
+| [Protoflicker](https://wikiwiki.jp/arcaea/Protoflicker) | Silentroom | 3.12.8(22/04/28) | 3 | 7 | 9+ |
+| [Stasis](https://wikiwiki.jp/arcaea/Stasis) | Maozon | 3.12.8(22/04/28) | 4 | 7 | 10+ |
+
+## "Dynamix Collaboration" Pack [5曲]
+
+『Dynamix』by C4Cat
+
+Collaboration Pack
+
+'Dynamix'の素晴らしい楽曲の海をゲームの垣根を越えてはるばるやってきたマスコットのサファイアと共に冒険しよう。 Arcaeaにはなかった、エネルギーに溢れる新しいサウンドを体感せよ！ 実装 : ver.1.1.2 (17/06/23) 有料コンテンツ : 500 メモリー エーテルの雫 : 5 個 パートナー : [サファイア](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page4%29#sapphire)※パック購入と同時にパートナー解禁。
+
+本パックを購入するとMemory Archiveの楽曲「 [γuarδina](https://wikiwiki.jp/arcaea/%CE%B3uar%CE%B4ina)」の入手権を得ることができます。
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [Moonlight of Sand Castle](https://wikiwiki.jp/arcaea/Moonlight%20of%20Sand%20Castle) | 旅人E | 1.1.2(17/06/23) | 1 | 5 | 7+ |
+| [REconstruction](https://wikiwiki.jp/arcaea/REconstruction) | Ryazan | 1.1.2(17/06/23) | 2 | 6 | 8 |
+| [Evoltex (poppi'n mix)](https://wikiwiki.jp/arcaea/Evoltex%20%28poppi%27n%20mix%29) | Arch vs n3pu | 1.1.2(17/06/23) | 2 | 7 | 8+ |
+| [Oracle](https://wikiwiki.jp/arcaea/Oracle) | TQ☆ | 1.1.2(17/06/23) | 3 | 5 | 9 |
+| [αterlβus](https://wikiwiki.jp/arcaea/%CE%B1terl%CE%B2us) | Aoi | 1.1.2(17/06/23) | 4 | 7 | 10 |
+
+## Error Track (エイプリルフール楽曲) [8曲]
+
+April Fool's Charts
+
+毎年4月1日に追加されるエイプリルフールError Track楽曲の一覧です。 これらの楽曲は楽曲パックには含まれていませんが、便宜上擬似パックとして記載しています。 なお、これらの楽曲は収録曲数に含まれていません。
+
+| Song | Composer | Version | Difficulty |
+| --- | --- | --- | --- |
+| PST | PRS | FTR | ETR | BYD |
+| [Ignotus Afterburn](https://wikiwiki.jp/arcaea/Ignotus%20Afterburn) | Arcaea Sound Team | 1.6.1(18/04/01) | ? |
+| [Red and Blue and Green](https://wikiwiki.jp/arcaea/Red%20and%20Blue%20and%20Green) | fn(ArcaeaSoundTeam) | 2.0.2(19/04/01) | ? |
+| [Singularity VVVIP](https://wikiwiki.jp/arcaea/Singularity%20VVVIP) | Arcaea Sound Team against. ETIA. | 2.6.1(20/04/01) | ? |
+| [overdead.](https://wikiwiki.jp/arcaea/overdead.) | fn | 3.5.3(21/04/01) | ? |
+| [Mistempered Malignance](https://wikiwiki.jp/arcaea/Mistempered%20Malignance) | s-don vs. nitro (lowiro) | 3.12.6(22/04/01) | ? |
+| [0xe0e1ccull](https://wikiwiki.jp/arcaea/0xe0e1ccull) | f→n | 4.4.2(23/04/01) | ? |
+| [HIVEMIND INTERLINKED](https://wikiwiki.jp/arcaea/HIVEMIND%20INTERLINKED) | かたぎり | 5.5.6(24/04/01) | ? |
+| [Live Faster Die Younger](https://wikiwiki.jp/arcaea/Live%20Faster%20Die%20Younger) | Dustvoxx | 6.3.3(25/04/01) | ? |
+
+#### コメント
+
+Extant AnimaのPack Appendストーリー全読破でパック画像が変更されるのを確認しました（これまで通り切り替えも可能）。……そろそろ数が多くなってきたので、ここに書くよりもルールのページに項目を書き足してそこにまとめた方がよさそうな気もします。 -- 2025-08-21 (木) 18:32:23
+
+まだ4つですし、個人的にはこのままでいいかと思います。すぐに双方のパック画像が見られるという利点もありますし。ルールに「パック画像パターンが追加されるパックもあるよ」的な文言を追加するのは別に良いかと思いますが。 -- 2025-08-21 (木) 18:44:37
+
+- パック画像を足すことを考えると、ルールのページに説明を入れたとしても結局このページに書き足すのは必須なんですよね。そう考えるととりあえず現状のままでいいのかな。ご意見ありがとうございます。 -- 2025-08-21 (木) 19:18:09
+
+DJMAX Collaborationパックにも画像切り替えがある旨を追記しました。メインパック購入済＋対立&エル・フェイル解禁済みでPack Append購入して解禁を確認したので、他の2つが必須かの確認はすみませんがどなたか検証お願いします。 -- 2025-08-17 (日) 14:12:44
+
+PackとAppend購入時点、対立&エル・フェイル未解禁でもパック画像が切り替えられていました。購入の有無については分からないです。 -- 2025-08-17 (日) 18:02:41
+
+- 情報提供ありがとうございます。反映しました。 -- 2025-08-21 (木) 18:36:05
+
+このページ上部の表示を現状維持するかゲームに合わせて分けるか…… -- 2025-03-29 (土) 00:14:10
+
+- 個人的にはゲームに合わせて分ける派ですけど、縦幅だいぶ取りそうなのがネックですね -- 2025-03-31 (月) 17:55:23
+
+楽曲選択画面でRotaeno Collaborationのパックにエト&ホッパとルナ&イロが切り替えられるのがあるんですけど、なにか意味でもあるんでしょうか？ -- 2024-11-20 (水) 12:28:13
+
+- 何それ？ -- 2024-11-20 (水) 19:21:01
+- 今更だけど、ストーリー読み終わった後の特典みたいなもんだよ。意味があると言われればないけど、好きな方に設定しな。 -- 2024-12-03 (火) 15:45:54
+
+Severed Eden関連のネタバレ扱いを解いてMain Story actII欄に入れるべきかなぁと思います。公式Youtubeとかでもネタバレされちゃってますし -- 2024-11-14 (木) 17:24:46
+
+むやみにすべてのネタバレを解くのではなく、必要最低限で良いのではないでしょうか。パック名や画像、説明文は今まで通り折り畳みの中で、「アノマリー解禁前まではSide Story第7弾として『Esoteric Order』の左側に表示される」という記載のみ折り畳みの外に配置すればよいと思います。 -- 2024-11-17 (日) 16:09:31
+
+- Absolute NihilがActⅡに移行することが明言されてるし、6.0からLasting Edenも初期状態からメインに表示される気がする -- 2024-11-18 (月) 08:14:22
+
+ 
+
+ 
+
+## CONTENTS
+
+― はじめに ―
+
+- HYPER VISIONのカテゴリがアプリ内でパートナー→オリジナルになってたので(どのverアプデかは不明)、このページでも編集しました。ついでに「カテゴリについて」内の説明文も少し書き加えてます -- 2024-11-09 (土) 15:32:38
+- [Arcaea Wiki](https://wikiwiki.jp/arcaea)
+- [ルール](https://wikiwiki.jp/arcaea/%E3%83%AB%E3%83%BC%E3%83%AB)
+- [初心者の方へ](https://wikiwiki.jp/arcaea/%E5%88%9D%E5%BF%83%E8%80%85%E3%81%AE%E6%96%B9%E3%81%B8)
+- [FAQ](https://wikiwiki.jp/arcaea/FAQ)
+- [リズムゲーム用語解説](https://wikiwiki.jp/arcaea/%E3%83%AA%E3%82%BA%E3%83%A0%E3%82%B2%E3%83%BC%E3%83%A0%E7%94%A8%E8%AA%9E%E8%A7%A3%E8%AA%AC)
+
+― 収録曲 ―
+
+[コンポーザー順](https://wikiwiki.jp/arcaea/%E3%82%B3%E3%83%B3%E3%83%9D%E3%83%BC%E3%82%B6%E3%83%BC%E9%A0%86)
+
+- [A～O](https://wikiwiki.jp/arcaea/%E3%82%B3%E3%83%B3%E3%83%9D%E3%83%BC%E3%82%B6%E3%83%BC%E9%A0%86/A%EF%BD%9EO)
+- [P～Z](https://wikiwiki.jp/arcaea/%E3%82%B3%E3%83%B3%E3%83%9D%E3%83%BC%E3%82%B6%E3%83%BC%E9%A0%86/P%EF%BD%9EZ)
+- [日本語・その他](https://wikiwiki.jp/arcaea/%E3%82%B3%E3%83%B3%E3%83%9D%E3%83%BC%E3%82%B6%E3%83%BC%E9%A0%86/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%BB%E3%81%9D%E3%81%AE%E4%BB%96)
+- [ボーカリスト](https://wikiwiki.jp/arcaea/%E3%82%B3%E3%83%B3%E3%83%9D%E3%83%BC%E3%82%B6%E3%83%BC%E9%A0%86/%E3%83%9C%E3%83%BC%E3%82%AB%E3%83%AA%E3%82%B9%E3%83%88)
+
+[イラストレーター順](https://wikiwiki.jp/arcaea/%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E9%A0%86)
+
+- [アルファベット](https://wikiwiki.jp/arcaea/%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E9%A0%86/%E3%82%A2%E3%83%AB%E3%83%95%E3%82%A1%E3%83%99%E3%83%83%E3%83%88)
+- [日本語・その他](https://wikiwiki.jp/arcaea/%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC%E9%A0%86/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%BB%E3%81%9D%E3%81%AE%E4%BB%96)
+
+― ゲーム関連 ―
+
+[ストーリー](https://wikiwiki.jp/arcaea/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC)
+
+- [Main Story Act I](https://wikiwiki.jp/arcaea/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC/Main%20Story)
+- [Main Story Act II](https://wikiwiki.jp/arcaea/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC/Main%20Story%20Act%20II)
+- [Side Story](https://wikiwiki.jp/arcaea/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC/Side%20Story)
+- [Archive Story](https://wikiwiki.jp/arcaea/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC/Archive%20Story)
+
+[パートナー](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC)
+
+- [恒常](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8)
+- [期間限定](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A)
+
+[ワールドモード](https://wikiwiki.jp/arcaea/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%A2%E3%83%BC%E3%83%89)
+
+[Chapter 1](https://wikiwiki.jp/arcaea/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%A2%E3%83%BC%E3%83%89/Chapter%201)
+
+- [Breached](https://wikiwiki.jp/arcaea/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%A2%E3%83%BC%E3%83%89/Breached%20Chapter/Chapter%201)
+
+[Chapter 2](https://wikiwiki.jp/arcaea/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%A2%E3%83%BC%E3%83%89/Chapter%202)
+
+- [Breached](https://wikiwiki.jp/arcaea/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%A2%E3%83%BC%E3%83%89/Breached%20Chapter/Chapter%202)
+
+[Chapter 3](https://wikiwiki.jp/arcaea/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%A2%E3%83%BC%E3%83%89/Chapter%203)
+
+- [Breached](https://wikiwiki.jp/arcaea/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%A2%E3%83%BC%E3%83%89/Breached%20Chapter/Chapter%203)
+
+― システム関連 ―
+
+[アップデート履歴](https://wikiwiki.jp/arcaea/%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E5%B1%A5%E6%AD%B4)
+
+- [ver.1.x / ver.2.x](https://wikiwiki.jp/arcaea/%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E5%B1%A5%E6%AD%B4/v1.0.5%EF%BD%9Ev2.6.2)
+- [ver.3.x](https://wikiwiki.jp/arcaea/%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E5%B1%A5%E6%AD%B4/v3.0.0%EF%BD%9Ev3.12.10)
+- [ver.4.x / ver.5.x](https://wikiwiki.jp/arcaea/%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E5%B1%A5%E6%AD%B4/v4.0.0%EF%BD%9E)
+- [ver.6.x](https://wikiwiki.jp/arcaea/%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E5%B1%A5%E6%AD%B4/v6.0.0%EF%BD%9E)
+
+― その他 ―
+
+[テンプレート](https://wikiwiki.jp/arcaea/%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88)
+
+- [楽曲ページ](https://wikiwiki.jp/arcaea/%E6%A5%BD%E6%9B%B2%E3%83%9A%E3%83%BC%E3%82%B8%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88)
+
+## Nintendo Switch
+
+[ワールドモード](https://wikiwiki.jp/arcaea/Nintendo%20Switch/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%A2%E3%83%BC%E3%83%89)
+
+- [Extra Chapter](https://wikiwiki.jp/arcaea/Nintendo%20Switch/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%A2%E3%83%BC%E3%83%89/Extra%20Chapter)
+- [Chapter 1](https://wikiwiki.jp/arcaea/Nintendo%20Switch/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%A2%E3%83%BC%E3%83%89/Chapter%201)
+- [Chapter 2](https://wikiwiki.jp/arcaea/Nintendo%20Switch/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%A2%E3%83%BC%E3%83%89/Chapter%202)
+- [Chapter 3](https://wikiwiki.jp/arcaea/Nintendo%20Switch/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%A2%E3%83%BC%E3%83%89/Chapter%203)
+- [Chapter 4](https://wikiwiki.jp/arcaea/Nintendo%20Switch/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%A2%E3%83%BC%E3%83%89/Chapter%204)
+- [Chapter 5](https://wikiwiki.jp/arcaea/Nintendo%20Switch/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%A2%E3%83%BC%E3%83%89/Chapter%205)
+- [Chapter 6](https://wikiwiki.jp/arcaea/Nintendo%20Switch/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%A2%E3%83%BC%E3%83%89/Chapter%206)
+
+4,400円 [購入はこちらから](https://store-jp.nintendo.com/list/software/70010000039850.html)
+
+― [More](https://wikiwiki.jp/arcaea/RecentChanges)―
+
+― [More](https://wikiwiki.jp/arcaea/Daily%20Top%20100)―
+
+## zawazawa
+
+## サウンドトラック
+
+詳細は [こちら](https://wikiwiki.jp/arcaea/Arcaea%20Sound%20Collection)
+
+Memories of Light(25曲 + [パートナー](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page3%29#hikarifa))
+
+[DIVERSE DIRECT](https://diverse.direct/arcaea/irocd-001/) [TANO*C STORE](https://www.tanocstore.net/shopdetail/000000002242/) [Amazon](https://www.amazon.co.jp/dp/B081QXZLT3) [メロンブックス](https://www.melonbooks.co.jp/detail/detail.php?product_id=581852) [Apple Music](https://music.apple.com/jp/album/arcaea-sound-collection-memories-of-light/1524421030) [YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_lqhazLVjiFoAkYRbed-iHjdSxPJUEYmQs) [Spotify](https://open.spotify.com/album/0NF9Ib8iJpuSkGcUsEWqFg)
+
+Memories of Conflict(26曲 + [パートナー](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page3%29#tairitsuso))
+
+[DIVERSE DIRECT](https://diverse.direct/arcaea/irocd-002/) [TANO*C STORE](https://www.tanocstore.net/shopdetail/000000002243/) [Amazon](https://www.amazon.co.jp/dp/B081QYH1MV) [メロンブックス](https://www.melonbooks.co.jp/detail/detail.php?product_id=581853) [Apple Music](https://music.apple.com/jp/album/arcaea-sound-collection-memories-of-conflict/1524422205) [YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_ktU9G2vNQFSNfL7vgKxg7Nu1-EYKFSMEQ) [Spotify](https://open.spotify.com/album/0mz9MALr7kmisuWANQECuK)
+
+Memories of Realms(25曲 + [パートナー](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page3%29#sayaet))
+
+[DIVERSE DIRECT](https://diverse.direct/arcaea/irocd-003/) [TANO*C STORE](https://www.tanocstore.net/shopdetail/000000002594/) [Amazon](https://www.amazon.co.jp/dp/B08LDFNPWS) [Apple Music](https://music.apple.com/jp/album/arcaea-sound-collection-memories-of-realms/1566298887) [YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_li08wFEp5xogYH6pWcDOh9aHEOD9YEVgU) [Spotify](https://open.spotify.com/album/4AT5Z6EN6o5huICCIqWKG7)
+
+Memories of Dreams(27曲 + [パートナー](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page3%29#alicetennielmi))
+
+[DIVERSE DIRECT](https://diverse.direct/arcaea/irocd-004/) [TANO*C STORE](https://www.tanocstore.net/shopdetail/000000002878/) [Amazon](https://www.amazon.co.jp/dp/B09LMZLG8Z/) [Apple Music](https://music.apple.com/jp/album/arcaea-sound-collection-memories-of-dreams/1644145013) [YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_k-sjzbpcEAj1ckPp27FoEaQR_kB5DUn8I) [Spotify](https://open.spotify.com/album/28P0JENkhoVSSeZlrnWNiH)
+
+Memories of Wrath(25曲 + [パートナー](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page3%29#tairitsuel))
+
+[DIVERSE DIRECT](https://diverse.direct/arcaea/irocd-005/) [TANO*C STORE](https://www.tanocstore.net/shopdetail/000000002879/) [Amazon](https://www.amazon.co.jp/dp/B09LN1XKWS/) [Apple Music](https://music.apple.com/jp/album/arcaea-sound-collection-memories-of-wrath/1644173091) [YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_ldb4wpfO8i_XHsCDi5yUvKF_V3dqxp1K8) [Spotify](https://open.spotify.com/album/0ShOvBhuOxUw5QDMSQGcEp)
+
+Memories of Myth(27曲 + [パートナー](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page3%29#lagrangear))
+
+[DIVERSE DIRECT](https://diverse.direct/arcaea/irocd-006/) [TANO*C STORE](https://www.tanocstore.net/shopdetail/000000003223) [Amazon](https://www.amazon.co.jp/dp/B0BSFXNTBG/) [Apple Music](https://music.apple.com/jp/album/arcaea-sound-collection-memories-of-myth/1713385016) [YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_kyoMQ2OYJTtHcRGrm413n34ZX2wR-6B2E) [Spotify](https://open.spotify.com/album/7wEwHaYRc4G3LYXaSxyDU4)
+
+Memories of Serenity(26曲 + [パートナー](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page3%29#vitaca))
+
+[DIVERSE DIRECT](https://diverse.direct/arcaea/irocd-007/) [TANO*C STORE](https://www.tanocstore.net/shopdetail/000000003607/) [Amazon](https://www.amazon.co.jp/dp/B0CY7T7P4K/) [Apple Music](https://music.apple.com/jp/album/arcaea-sound-collection-memories-of-serenity/1804900356) [Spotify](https://open.spotify.com/album/1qooXE916QVKGxX8iJrpxN)
+
+Crossing Collection(7曲 + [パートナー](https://wikiwiki.jp/arcaea/%E3%83%91%E3%83%BC%E3%83%88%E3%83%8A%E3%83%BC/%E6%81%92%E5%B8%B8%28Page3%29#breakthrough))
+
+[DIVERSE DIRECT](https://www.diverse.direct/arcaea/ans-0002/) [TANO*C STORE](https://www.tanocstore.net/shopdetail/000000004229/) [Bandcamp](https://lowiro.bandcamp.com/album/arcaea-next-stage-crossing-collection)
+
+## LINEスタンプ
+
+250円(100コイン)
+
+---
+
+Today : ? Yesterday : ? Total : ? Online : ?
+
+ 
+
+---
+
+*1 一部無料楽曲あり *2 期間限定で無料解禁が可能 *3 World Extend / Extend Archiveを700メモリーで購入、かつ [Memory Archiveチケット](https://wikiwiki.jp/arcaea/%E3%83%AB%E3%83%BC%E3%83%AB#beginnersmission)を使用した場合 *4 Dynamix Collaborationパックを購入後、ワールドモードの [γuarδina](https://wikiwiki.jp/arcaea/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%A2%E3%83%BC%E3%83%89/Chapter%202#guardina)マップにて解禁。追加課金不要。 *5 ビギナーミッションTier4クリアで解禁。追加課金不要。 *6 彩夢に関連する楽曲（詳細は楽曲ページを参照）をすべて購入後、ワールドモードの [Désive](https://wikiwiki.jp/arcaea/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%A2%E3%83%BC%E3%83%89/Chapter%208#desive)マップにて解禁。追加課金不要。 *7 購入期間限定楽曲 (2025/03/09 ～ 2026/03/09)期間を過ぎると入手が不可能になるが、楽曲のプレイは可能。 *8 Absolute Nihilパックを購入後、ワールドモードの [彷徨 ヴィータ](https://wikiwiki.jp/arcaea/%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%A2%E3%83%BC%E3%83%89/Chapter%209#vita)マップにて解禁。追加課金不要。 *9 期間を過ぎると入手が不可能になるが、楽曲のプレイは可能。 *10 原曲「 [Ignotus](https://wikiwiki.jp/arcaea/Ignotus)」の[BYD]譜面として恒常実装済み *11 原曲「 [Red and Blue](https://wikiwiki.jp/arcaea/Red%20and%20Blue)」の[BYD]譜面として恒常実装済み *12 原曲「 [Singularity](https://wikiwiki.jp/arcaea/Singularity)」の[BYD]譜面として恒常実装済み *13 原曲「 [dropdead](https://wikiwiki.jp/arcaea/dropdead)」の[BYD]譜面として恒常実装済み
+
+---
+
+© 2017-2026 [Arcaea Wiki](https://wikiwiki.jp/arcaea/)
+
+---
+
+ レンタルWIKI by [WIKIWIKI.jp*](https://wikiwiki.jp/)/ Designed by [Olivia](https://wikiwiki.jp/pp/skin-design-policy)/ [広告について](https://wikiwiki.jp/pp/aboutad)/ 無料レンタル掲示板 [zawazawa](https://z.wikiwiki.jp/)
